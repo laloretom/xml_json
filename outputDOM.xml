@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <sale_record department="Health" first_name="Ashla" id="1" last_name="Secretan" sales="9461.42" state="California"/>
+    <sale_record department="Computers" first_name="Conny" id="2" last_name="Sadry" sales="5266.05" state="Tennessee"/>
+    <sale_record department="Sports" first_name="Hermia" id="3" last_name="Arnowicz" sales="6807.11" state="Nebraska"/>
+    <sale_record department="Music" first_name="Kissiah" id="4" last_name="Kennifick" sales="6852.69" state="Florida"/>
+    <sale_record department="Movies" first_name="Jacquenette" id="5" last_name="Attarge" sales="4634.62" state="District of Columbia"/>
+    <sale_record department="Electronics" first_name="Sophey" id="6" last_name="MacCracken" sales="4736.67" state="Florida"/>
+    <sale_record department="Music" first_name="Clerissa" id="7" last_name="Groucutt" sales="6905.08" state="Iowa"/>
+    <sale_record department="Garden" first_name="Norton" id="8" last_name="Currey" sales="3845.4" state="District of Columbia"/>
+    <sale_record department="Garden" first_name="Caye" id="9" last_name="Iskowicz" sales="2969.36" state="South Carolina"/>
+    <sale_record department="Garden" first_name="Billy" id="10" last_name="Pavlenkov" sales="7731.69" state="Texas"/>
+    <sale_record department="Toys" first_name="Shae" id="11" last_name="Edinborough" sales="6324.77" state="California"/>
+    <sale_record department="Home" first_name="Leonard" id="12" last_name="Frankton" sales="5800.66" state="Ohio"/>
+    <sale_record department="Books" first_name="Abra" id="13" last_name="Maha" sales="4177.19" state="Washington"/>
+    <sale_record department="Industrial" first_name="Gilberta" id="14" last_name="Livens" sales="2681.05" state="Florida"/>
+    <sale_record department="Electronics" first_name="Robby" id="15" last_name="Wince" sales="2307.23" state="Indiana"/>
+    <sale_record department="Movies" first_name="Ethel" id="16" last_name="Capron" sales="8676.91" state="Texas"/>
+    <sale_record department="Automotive" first_name="Rosie" id="17" last_name="Denholm" sales="9929.9" state="Georgia"/>
+    <sale_record department="Sports" first_name="Darnell" id="18" last_name="Millthorpe" sales="7247.74" state="Arizona"/>
+    <sale_record department="Movies" first_name="Cyb" id="19" last_name="Duggon" sales="3592.27" state="Tennessee"/>
+    <sale_record department="Music" first_name="Frayda" id="20" last_name="Overthrow" sales="4773.19" state="California"/>
+    <sale_record department="Books" first_name="Maitilde" id="21" last_name="Rame" sales="7785.01" state="Texas"/>
+    <sale_record department="Automotive" first_name="Heinrick" id="22" last_name="Karpmann" sales="5009.03" state="New York"/>
+    <sale_record department="Home" first_name="Rance" id="23" last_name="Brabant" sales="6248.19" state="New York"/>
+    <sale_record department="Baby" first_name="Nicola" id="24" last_name="Hubbuck" sales="7752.73" state="Kentucky"/>
+    <sale_record department="Health" first_name="Stanwood" id="25" last_name="Stading" sales="3326.15" state="Louisiana"/>
+    <sale_record department="Outdoors" first_name="Jeane" id="26" last_name="Broyd" sales="3711.06" state="Maryland"/>
+    <sale_record department="Books" first_name="Walther" id="27" last_name="Blazdell" sales="1800.19" state="Maryland"/>
+    <sale_record department="Garden" first_name="Heida" id="28" last_name="Cholmondeley" sales="5211.09" state="Virginia"/>
+    <sale_record department="Music" first_name="Onofredo" id="29" last_name="Rodway" sales="4176.25" state="California"/>
+    <sale_record department="Sports" first_name="Damien" id="30" last_name="Fraczek" sales="3882.41" state="Florida"/>
+    <sale_record department="Jewelry" first_name="Cicily" id="31" last_name="Longbottom" sales="1487.03" state="New York"/>
+    <sale_record department="Tools" first_name="Nathanael" id="32" last_name="Cammish" sales="5005.73" state="California"/>
+    <sale_record department="Industrial" first_name="Daryle" id="33" last_name="Bushrod" sales="2093.72" state="Illinois"/>
+    <sale_record department="Tools" first_name="Darla" id="34" last_name="Crannage" sales="2756.25" state="South Carolina"/>
+    <sale_record department="Toys" first_name="Nina" id="35" last_name="Carruthers" sales="9380.85" state="California"/>
+    <sale_record department="Garden" first_name="Dosi" id="36" last_name="Birdis" sales="3256.74" state="California"/>
+    <sale_record department="Electronics" first_name="Coletta" id="37" last_name="Tackett" sales="1651.85" state="Ohio"/>
+    <sale_record department="Tools" first_name="Livvie" id="38" last_name="Ughetti" sales="2566.47" state="South Dakota"/>
+    <sale_record department="Health" first_name="Leticia" id="39" last_name="Iacobini" sales="7623.81" state="District of Columbia"/>
+    <sale_record department="Kids" first_name="Milly" id="40" last_name="Danielczyk" sales="5288.74" state="Colorado"/>
+    <sale_record department="Beauty" first_name="Jere" id="41" last_name="D'Orsay" sales="8445.92" state="Texas"/>
+    <sale_record department="Garden" first_name="Murry" id="42" last_name="Di Ruggero" sales="6678.98" state="California"/>
+    <sale_record department="Clothing" first_name="Umeko" id="43" last_name="Eadmead" sales="8829.9" state="Ohio"/>
+    <sale_record department="Outdoors" first_name="Iseabal" id="44" last_name="Heisham" sales="5993.5" state="New York"/>
+    <sale_record department="Outdoors" first_name="Jenni" id="45" last_name="Huonic" sales="8526.62" state="Florida"/>
+    <sale_record department="Kids" first_name="Douglass" id="46" last_name="Stenners" sales="5837.08" state="Washington"/>
+    <sale_record department="Clothing" first_name="Josie" id="47" last_name="O'Sheilds" sales="7702.38" state="California"/>
+    <sale_record department="Books" first_name="Ulysses" id="48" last_name="Hanster" sales="6761.24" state="California"/>
+    <sale_record department="Games" first_name="Quintin" id="49" last_name="Featherstone" sales="8174.45" state="Oklahoma"/>
+    <sale_record department="Games" first_name="Edin" id="50" last_name="Isack" sales="4593.69" state="Utah"/>
+    <sale_record department="Movies" first_name="Truda" id="51" last_name="Ainsby" sales="5472.92" state="Florida"/>
+    <sale_record department="Clothing" first_name="Courtney" id="52" last_name="Kisbey" sales="7687.11" state="Ohio"/>
+    <sale_record department="Clothing" first_name="Chlo" id="53" last_name="Annand" sales="4921.7" state="Kentucky"/>
+    <sale_record department="Garden" first_name="Orsa" id="54" last_name="Yellowlee" sales="5192.57" state="North Carolina"/>
+    <sale_record department="Industrial" first_name="Dev" id="55" last_name="Dimsdale" sales="6847.6" state="New York"/>
+    <sale_record department="Shoes" first_name="Aveline" id="56" last_name="Beecker" sales="6569.42" state="Michigan"/>
+    <sale_record department="Toys" first_name="Gaspar" id="57" last_name="Castellan" sales="6809.27" state="New York"/>
+    <sale_record department="Automotive" first_name="Vivianne" id="58" last_name="Kenton" sales="4306.76" state="District of Columbia"/>
+    <sale_record department="Books" first_name="Christye" id="59" last_name="Daley" sales="6205.67" state="Texas"/>
+    <sale_record department="Outdoors" first_name="Adolpho" id="60" last_name="Pavolillo" sales="9612.99" state="Colorado"/>
+    <sale_record department="Home" first_name="Aurelea" id="61" last_name="Holbury" sales="8991.91" state="Nebraska"/>
+    <sale_record department="Music" first_name="Pasquale" id="62" last_name="Ribbens" sales="9725.53" state="Florida"/>
+    <sale_record department="Music" first_name="Jecho" id="63" last_name="Rubinovitsch" sales="8104.04" state="Florida"/>
+    <sale_record department="Books" first_name="Jeffy" id="64" last_name="Peacop" sales="6052.05" state="Hawaii"/>
+    <sale_record department="Jewelry" first_name="Bibi" id="65" last_name="Cheeseman" sales="3724.89" state="Arizona"/>
+    <sale_record department="Grocery" first_name="Manon" id="66" last_name="Alldread" sales="7147.92" state="Missouri"/>
+    <sale_record department="Tools" first_name="Dana" id="67" last_name="Dahlback" sales="2485.5" state="Connecticut"/>
+    <sale_record department="Automotive" first_name="Myrlene" id="68" last_name="Sherrock" sales="8573.09" state="Montana"/>
+    <sale_record department="Books" first_name="Anastasia" id="69" last_name="Elleton" sales="7689.15" state="North Carolina"/>
+    <sale_record department="Sports" first_name="Carly" id="70" last_name="Gerred" sales="3791.35" state="California"/>
+    <sale_record department="Music" first_name="Lyn" id="71" last_name="Windross" sales="2199.09" state="Pennsylvania"/>
+    <sale_record department="Computers" first_name="Dionne" id="72" last_name="Stienham" sales="9310.75" state="Texas"/>
+    <sale_record department="Industrial" first_name="Mavis" id="73" last_name="Dafter" sales="1550.36" state="South Carolina"/>
+    <sale_record department="Movies" first_name="Laurella" id="74" last_name="Whenham" sales="7311.89" state="Michigan"/>
+    <sale_record department="Beauty" first_name="Friedrich" id="75" last_name="Rizzi" sales="4934.06" state="Texas"/>
+    <sale_record department="Clothing" first_name="Sheryl" id="76" last_name="Scobbie" sales="9369.67" state="Iowa"/>
+    <sale_record department="Toys" first_name="Kimbell" id="77" last_name="Gransden" sales="4719.5" state="Minnesota"/>
+    <sale_record department="Clothing" first_name="Christian" id="78" last_name="Corlett" sales="7591.99" state="Kentucky"/>
+    <sale_record department="Health" first_name="Rochella" id="79" last_name="Pealing" sales="4899.19" state="Oklahoma"/>
+    <sale_record department="Grocery" first_name="Nanny" id="80" last_name="Rouzet" sales="4354.07" state="Colorado"/>
+    <sale_record department="Movies" first_name="Elliott" id="81" last_name="Grimley" sales="4475.29" state="Nevada"/>
+    <sale_record department="Games" first_name="Joyous" id="82" last_name="Old" sales="6768.55" state="California"/>
+    <sale_record department="Games" first_name="Marlene" id="83" last_name="Eric" sales="1466.54" state="Utah"/>
+    <sale_record department="Electronics" first_name="Erny" id="84" last_name="Liddiard" sales="2888.33" state="Alabama"/>
+    <sale_record department="Health" first_name="Raffarty" id="85" last_name="Bevans" sales="6239.01" state="District of Columbia"/>
+    <sale_record department="Beauty" first_name="Leoine" id="86" last_name="Shelley" sales="5089.99" state="California"/>
+    <sale_record department="Beauty" first_name="Ginni" id="87" last_name="Philcock" sales="8731.55" state="California"/>
+    <sale_record department="Clothing" first_name="Jamill" id="88" last_name="Bergeau" sales="1704.09" state="Oregon"/>
+    <sale_record department="Toys" first_name="Dorita" id="89" last_name="Mancktelow" sales="3567.4" state="Hawaii"/>
+    <sale_record department="Tools" first_name="Doll" id="90" last_name="Hadlow" sales="7072.84" state="Maryland"/>
+    <sale_record department="Jewelry" first_name="Wainwright" id="91" last_name="De Few" sales="8988.38" state="Connecticut"/>
+    <sale_record department="Outdoors" first_name="Tomasine" id="92" last_name="Ferraraccio" sales="3492.02" state="Georgia"/>
+    <sale_record department="Electronics" first_name="Salli" id="93" last_name="Groucock" sales="2726.4" state="Georgia"/>
+    <sale_record department="Jewelry" first_name="Annmaria" id="94" last_name="Akaster" sales="5283.11" state="California"/>
+    <sale_record department="Home" first_name="Dot" id="95" last_name="Le Page" sales="7453.28" state="Wisconsin"/>
+    <sale_record department="Sports" first_name="Margeaux" id="96" last_name="Ganley" sales="7675.85" state="Georgia"/>
+    <sale_record department="Clothing" first_name="Mikaela" id="97" last_name="Scarse" sales="5803.26" state="Louisiana"/>
+    <sale_record department="Home" first_name="George" id="98" last_name="Andreev" sales="8270.74" state="Florida"/>
+    <sale_record department="Computers" first_name="Vaughn" id="99" last_name="Tooze" sales="5924.49" state="New York"/>
+    <sale_record department="Music" first_name="Doll" id="100" last_name="Richardeau" sales="3682.06" state="Texas"/>
+    <sale_record department="Grocery" first_name="Andrew" id="101" last_name="Dominguez" sales="7059.74" state="Washington"/>
+    <sale_record department="Home" first_name="Leland" id="102" last_name="Gummie" sales="7850.91" state="Nebraska"/>
+    <sale_record department="Games" first_name="Papagena" id="103" last_name="Jenking" sales="1584.9" state="Washington"/>
+    <sale_record department="Computers" first_name="Sybila" id="104" last_name="Kuhnke" sales="4577.17" state="Iowa"/>
+    <sale_record department="Beauty" first_name="Eve" id="105" last_name="Poppleston" sales="4062.28" state="Indiana"/>
+    <sale_record department="Computers" first_name="Doretta" id="106" last_name="Wahlberg" sales="2260.24" state="Connecticut"/>
+    <sale_record department="Computers" first_name="Bax" id="107" last_name="Spurden" sales="9468.02" state="Missouri"/>
+    <sale_record department="Games" first_name="Paulo" id="108" last_name="Brookwood" sales="1408.92" state="Texas"/>
+    <sale_record department="Industrial" first_name="Gibbie" id="109" last_name="Pascho" sales="2567.15" state="Texas"/>
+    <sale_record department="Music" first_name="Alysia" id="110" last_name="Hylands" sales="2430.99" state="Tennessee"/>
+    <sale_record department="Movies" first_name="Suzie" id="111" last_name="Pendlebery" sales="5125.7" state="Texas"/>
+    <sale_record department="Books" first_name="Kerk" id="112" last_name="Farron" sales="2174.92" state="Arizona"/>
+    <sale_record department="Industrial" first_name="Wallache" id="113" last_name="Truman" sales="3791.46" state="Ohio"/>
+    <sale_record department="Health" first_name="Sarene" id="114" last_name="McGiffin" sales="7791.88" state="Texas"/>
+    <sale_record department="Shoes" first_name="Shirlee" id="115" last_name="Yanson" sales="7183.39" state="Indiana"/>
+    <sale_record department="Home" first_name="Gabriella" id="116" last_name="Pergens" sales="3168.35" state="New York"/>
+    <sale_record department="Industrial" first_name="Alexia" id="117" last_name="Tokell" sales="6365.11" state="Kentucky"/>
+    <sale_record department="Home" first_name="Rosabella" id="118" last_name="Finby" sales="9719.38" state="Pennsylvania"/>
+    <sale_record department="Movies" first_name="Etta" id="119" last_name="Tanfield" sales="6667.04" state="Florida"/>
+    <sale_record department="Shoes" first_name="Holli" id="120" last_name="Coxhell" sales="9646.16" state="Virginia"/>
+    <sale_record department="Kids" first_name="Bron" id="121" last_name="Heading" sales="4570.62" state="North Dakota"/>
+    <sale_record department="Clothing" first_name="Annie" id="122" last_name="Taveriner" sales="3501.59" state="Tennessee"/>
+    <sale_record department="Clothing" first_name="Erma" id="123" last_name="Exer" sales="1629.9" state="Illinois"/>
+    <sale_record department="Computers" first_name="Christie" id="124" last_name="Pallin" sales="4505.02" state="New York"/>
+    <sale_record department="Toys" first_name="Livy" id="125" last_name="Da Costa" sales="5754.91" state="Oklahoma"/>
+    <sale_record department="Jewelry" first_name="Carmencita" id="126" last_name="Whyborne" sales="5747.79" state="Pennsylvania"/>
+    <sale_record department="Shoes" first_name="Chrissy" id="127" last_name="Westphal" sales="2398.9" state="Iowa"/>
+    <sale_record department="Tools" first_name="Issi" id="128" last_name="Curbishley" sales="9619.71" state="New York"/>
+    <sale_record department="Movies" first_name="Hillery" id="129" last_name="Brusle" sales="6872.8" state="Florida"/>
+    <sale_record department="Computers" first_name="Ferdinande" id="130" last_name="Bickerdyke" sales="2816.67" state="Washington"/>
+    <sale_record department="Toys" first_name="Reinaldo" id="131" last_name="Blodget" sales="6531.75" state="Louisiana"/>
+    <sale_record department="Beauty" first_name="Arabele" id="132" last_name="O'Sharkey" sales="4432.07" state="Virginia"/>
+    <sale_record department="Shoes" first_name="Nydia" id="133" last_name="Duffill" sales="3929.22" state="Florida"/>
+    <sale_record department="Health" first_name="Dougie" id="134" last_name="Trippack" sales="3798.55" state="Oklahoma"/>
+    <sale_record department="Garden" first_name="Coraline" id="135" last_name="Molden" sales="1390.29" state="Virginia"/>
+    <sale_record department="Grocery" first_name="Aurel" id="136" last_name="Dudman" sales="8059.05" state="New York"/>
+    <sale_record department="Garden" first_name="Adelheid" id="137" last_name="Allwood" sales="9938.22" state="Connecticut"/>
+    <sale_record department="Beauty" first_name="Clari" id="138" last_name="Lohan" sales="6426.62" state="Kansas"/>
+    <sale_record department="Industrial" first_name="Katharine" id="139" last_name="Warfield" sales="5783.66" state="New York"/>
+    <sale_record department="Health" first_name="Rozalie" id="140" last_name="Girod" sales="5525.55" state="Kentucky"/>
+    <sale_record department="Books" first_name="Vlad" id="141" last_name="Murrey" sales="4401.32" state="Ohio"/>
+    <sale_record department="Books" first_name="Deck" id="142" last_name="Child" sales="1144.91" state="Maryland"/>
+    <sale_record department="Industrial" first_name="Corrinne" id="143" last_name="Huggett" sales="4679.48" state="Michigan"/>
+    <sale_record department="Sports" first_name="Luca" id="144" last_name="Paddeley" sales="4352.0" state="New York"/>
+    <sale_record department="Music" first_name="Agnesse" id="145" last_name="Bordone" sales="5327.79" state="Maryland"/>
+    <sale_record department="Automotive" first_name="Mandie" id="146" last_name="Mallya" sales="1316.71" state="Florida"/>
+    <sale_record department="Baby" first_name="Ansell" id="147" last_name="Bootes" sales="3495.08" state="California"/>
+    <sale_record department="Beauty" first_name="Huberto" id="148" last_name="Housden" sales="2919.9" state="Idaho"/>
+    <sale_record department="Music" first_name="Catlaina" id="149" last_name="MacCoveney" sales="6768.12" state="Louisiana"/>
+    <sale_record department="Music" first_name="Oran" id="150" last_name="Ceci" sales="2581.82" state="California"/>
+    <sale_record department="Automotive" first_name="Annabel" id="151" last_name="Lathaye" sales="6653.02" state="New York"/>
+    <sale_record department="Sports" first_name="Mil" id="152" last_name="Demann" sales="7789.72" state="Colorado"/>
+    <sale_record department="Automotive" first_name="Ingaborg" id="153" last_name="Gates" sales="8442.68" state="Texas"/>
+    <sale_record department="Grocery" first_name="Garth" id="154" last_name="Delafont" sales="1713.83" state="District of Columbia"/>
+    <sale_record department="Toys" first_name="Blondelle" id="155" last_name="Bricham" sales="4238.47" state="Missouri"/>
+    <sale_record department="Computers" first_name="Adda" id="156" last_name="Whight" sales="9516.78" state="California"/>
+    <sale_record department="Computers" first_name="Denys" id="157" last_name="Sindle" sales="3091.8" state="Michigan"/>
+    <sale_record department="Grocery" first_name="Jenelle" id="158" last_name="Faussett" sales="4607.05" state="Missouri"/>
+    <sale_record department="Sports" first_name="Glenn" id="159" last_name="Lanigan" sales="1742.61" state="Maryland"/>
+    <sale_record department="Outdoors" first_name="Eliot" id="160" last_name="Saben" sales="4468.6" state="Colorado"/>
+    <sale_record department="Industrial" first_name="Missie" id="161" last_name="Ogilby" sales="7487.44" state="New York"/>
+    <sale_record department="Grocery" first_name="Alphonse" id="162" last_name="Astlett" sales="4559.73" state="Mississippi"/>
+    <sale_record department="Garden" first_name="Pegeen" id="163" last_name="Brian" sales="7917.95" state="Georgia"/>
+    <sale_record department="Outdoors" first_name="Clo" id="164" last_name="Decourt" sales="8881.45" state="Alabama"/>
+    <sale_record department="Shoes" first_name="Geneva" id="165" last_name="Chiplen" sales="1757.17" state="Ohio"/>
+    <sale_record department="Kids" first_name="Phillis" id="166" last_name="Hunn" sales="4786.6" state="West Virginia"/>
+    <sale_record department="Games" first_name="Ianthe" id="167" last_name="Caughte" sales="3145.65" state="Oklahoma"/>
+    <sale_record department="Books" first_name="Madelina" id="168" last_name="Shorey" sales="1388.59" state="Virginia"/>
+    <sale_record department="Shoes" first_name="Enriqueta" id="169" last_name="Drysdell" sales="4078.59" state="Florida"/>
+    <sale_record department="Kids" first_name="Sargent" id="170" last_name="Sconce" sales="1635.22" state="Kentucky"/>
+    <sale_record department="Computers" first_name="Lilah" id="171" last_name="Wooster" sales="3442.64" state="North Carolina"/>
+    <sale_record department="Health" first_name="Nevile" id="172" last_name="Britner" sales="1879.57" state="West Virginia"/>
+    <sale_record department="Automotive" first_name="Vinnie" id="173" last_name="Flatley" sales="4292.98" state="Texas"/>
+    <sale_record department="Music" first_name="Maurizia" id="174" last_name="Spacy" sales="2567.31" state="Virginia"/>
+    <sale_record department="Garden" first_name="Mercie" id="175" last_name="Vandrill" sales="8424.7" state="California"/>
+    <sale_record department="Sports" first_name="Tally" id="176" last_name="Stoakes" sales="2167.91" state="Texas"/>
+    <sale_record department="Sports" first_name="Thain" id="177" last_name="Prate" sales="6380.89" state="California"/>
+    <sale_record department="Shoes" first_name="Jeanelle" id="178" last_name="Cleiment" sales="3609.31" state="Nevada"/>
+    <sale_record department="Industrial" first_name="Bebe" id="179" last_name="Hernik" sales="8138.58" state="Connecticut"/>
+    <sale_record department="Baby" first_name="Bryna" id="180" last_name="Hablet" sales="3693.05" state="Montana"/>
+    <sale_record department="Health" first_name="Stirling" id="181" last_name="Bernaldez" sales="1509.89" state="Texas"/>
+    <sale_record department="Kids" first_name="Fern" id="182" last_name="Ducker" sales="3379.9" state="Kentucky"/>
+    <sale_record department="Home" first_name="Philip" id="183" last_name="Lintot" sales="5875.27" state="California"/>
+    <sale_record department="Tools" first_name="Corrie" id="184" last_name="Dumbelton" sales="1190.88" state="Virginia"/>
+    <sale_record department="Beauty" first_name="Charlton" id="185" last_name="Baignard" sales="3213.45" state="Florida"/>
+    <sale_record department="Computers" first_name="Killian" id="186" last_name="Duran" sales="7018.34" state="Texas"/>
+    <sale_record department="Outdoors" first_name="Lorette" id="187" last_name="O'Hoey" sales="7673.36" state="Texas"/>
+    <sale_record department="Shoes" first_name="Essie" id="188" last_name="Best" sales="5533.19" state="California"/>
+    <sale_record department="Kids" first_name="Kaila" id="189" last_name="Percifer" sales="3257.07" state="Georgia"/>
+    <sale_record department="Books" first_name="Blane" id="190" last_name="Pringley" sales="5918.42" state="Washington"/>
+    <sale_record department="Grocery" first_name="Tootsie" id="191" last_name="McGann" sales="4163.46" state="Colorado"/>
+    <sale_record department="Music" first_name="Kassandra" id="192" last_name="Lowndesbrough" sales="1410.67" state="Texas"/>
+    <sale_record department="Baby" first_name="Frederik" id="193" last_name="Fealey" sales="4262.12" state="South Dakota"/>
+    <sale_record department="Computers" first_name="Perrine" id="194" last_name="Hibbart" sales="4168.66" state="California"/>
+    <sale_record department="Kids" first_name="Sophie" id="195" last_name="Wark" sales="9731.35" state="Texas"/>
+    <sale_record department="Health" first_name="Judy" id="196" last_name="Bentz" sales="2169.59" state="District of Columbia"/>
+    <sale_record department="Outdoors" first_name="Ronny" id="197" last_name="Suttie" sales="4699.43" state="Minnesota"/>
+    <sale_record department="Computers" first_name="Ashien" id="198" last_name="Westrope" sales="4912.77" state="Montana"/>
+    <sale_record department="Health" first_name="Dickie" id="199" last_name="Wyllcock" sales="2454.67" state="New Jersey"/>
+    <sale_record department="Baby" first_name="Viv" id="200" last_name="Devine" sales="2634.92" state="Florida"/>
+    <sale_record department="Books" first_name="Regan" id="201" last_name="Arnaldi" sales="9399.75" state="Virginia"/>
+    <sale_record department="Home" first_name="Maia" id="202" last_name="Khotler" sales="2092.85" state="Massachusetts"/>
+    <sale_record department="Clothing" first_name="Roseanna" id="203" last_name="Skillanders" sales="2759.89" state="California"/>
+    <sale_record department="Electronics" first_name="Lisa" id="204" last_name="Stearndale" sales="3545.4" state="Minnesota"/>
+    <sale_record department="Outdoors" first_name="Lou" id="205" last_name="Coatham" sales="3335.47" state="Massachusetts"/>
+    <sale_record department="Grocery" first_name="Jaquith" id="206" last_name="Trowle" sales="9480.27" state="Florida"/>
+    <sale_record department="Beauty" first_name="Deirdre" id="207" last_name="Rosoni" sales="8139.91" state="California"/>
+    <sale_record department="Beauty" first_name="Edyth" id="208" last_name="Hancell" sales="2096.56" state="District of Columbia"/>
+    <sale_record department="Music" first_name="Padraic" id="209" last_name="Pepye" sales="5528.73" state="California"/>
+    <sale_record department="Jewelry" first_name="Danni" id="210" last_name="Milnes" sales="8080.67" state="California"/>
+    <sale_record department="Games" first_name="Jeane" id="211" last_name="Tidbury" sales="2476.1" state="Tennessee"/>
+    <sale_record department="Kids" first_name="Andria" id="212" last_name="Gaskins" sales="8820.66" state="Texas"/>
+    <sale_record department="Clothing" first_name="Read" id="213" last_name="Egell" sales="3857.88" state="California"/>
+    <sale_record department="Health" first_name="Fernando" id="214" last_name="Rizzi" sales="7104.2" state="Texas"/>
+    <sale_record department="Games" first_name="Michelle" id="215" last_name="Blase" sales="1419.99" state="Nebraska"/>
+    <sale_record department="Grocery" first_name="Kathryn" id="216" last_name="Durdle" sales="6723.17" state="Texas"/>
+    <sale_record department="Books" first_name="Gypsy" id="217" last_name="Feldheim" sales="2895.99" state="Louisiana"/>
+    <sale_record department="Health" first_name="Bee" id="218" last_name="Whitehorne" sales="4645.25" state="Florida"/>
+    <sale_record department="Garden" first_name="Latashia" id="219" last_name="Mighele" sales="2592.04" state="Alabama"/>
+    <sale_record department="Health" first_name="Marley" id="220" last_name="Walters" sales="9567.94" state="Iowa"/>
+    <sale_record department="Sports" first_name="Marys" id="221" last_name="Oppie" sales="5426.84" state="California"/>
+    <sale_record department="Music" first_name="Jane" id="222" last_name="Hume" sales="8029.22" state="Pennsylvania"/>
+    <sale_record department="Outdoors" first_name="Marco" id="223" last_name="Paulino" sales="8659.82" state="Nevada"/>
+    <sale_record department="Automotive" first_name="Miriam" id="224" last_name="Heare" sales="2928.43" state="Texas"/>
+    <sale_record department="Clothing" first_name="Orbadiah" id="225" last_name="Sheerin" sales="4509.35" state="New York"/>
+    <sale_record department="Beauty" first_name="Catarina" id="226" last_name="Himsworth" sales="8394.3" state="District of Columbia"/>
+    <sale_record department="Electronics" first_name="Farlee" id="227" last_name="Bartlet" sales="7597.2" state="Indiana"/>
+    <sale_record department="Kids" first_name="Tallou" id="228" last_name="Cornelis" sales="6522.96" state="Indiana"/>
+    <sale_record department="Toys" first_name="Leonardo" id="229" last_name="Burfoot" sales="7952.88" state="Florida"/>
+    <sale_record department="Sports" first_name="Mattias" id="230" last_name="Cockburn" sales="3314.73" state="Florida"/>
+    <sale_record department="Health" first_name="Ronnica" id="231" last_name="Spickett" sales="5051.81" state="Michigan"/>
+    <sale_record department="Tools" first_name="Heidi" id="232" last_name="Merlin" sales="7892.47" state="Louisiana"/>
+    <sale_record department="Sports" first_name="Clarie" id="233" last_name="Mineghelli" sales="5784.97" state="Ohio"/>
+    <sale_record department="Baby" first_name="Beverley" id="234" last_name="Terese" sales="8075.73" state="New York"/>
+    <sale_record department="Jewelry" first_name="Linus" id="235" last_name="Tremoulet" sales="8716.73" state="Colorado"/>
+    <sale_record department="Toys" first_name="Ardath" id="236" last_name="Ceillier" sales="6937.32" state="Florida"/>
+    <sale_record department="Tools" first_name="Herby" id="237" last_name="Ramard" sales="7227.2" state="Hawaii"/>
+    <sale_record department="Automotive" first_name="Dix" id="238" last_name="Ghirardi" sales="9306.01" state="California"/>
+    <sale_record department="Health" first_name="Ally" id="239" last_name="Gabbot" sales="8041.24" state="Minnesota"/>
+    <sale_record department="Kids" first_name="Purcell" id="240" last_name="Bashford" sales="2036.48" state="Pennsylvania"/>
+    <sale_record department="Sports" first_name="Spike" id="241" last_name="Seniour" sales="2103.43" state="California"/>
+    <sale_record department="Garden" first_name="Michal" id="242" last_name="Bolt" sales="9926.16" state="District of Columbia"/>
+    <sale_record department="Electronics" first_name="Julita" id="243" last_name="Eisikowitch" sales="8796.37" state="District of Columbia"/>
+    <sale_record department="Books" first_name="Daveta" id="244" last_name="Hylton" sales="9954.83" state="Florida"/>
+    <sale_record department="Tools" first_name="Stella" id="245" last_name="Hadwen" sales="4550.03" state="Missouri"/>
+    <sale_record department="Beauty" first_name="Miof mela" id="246" last_name="Lawman" sales="5935.45" state="Colorado"/>
+    <sale_record department="Garden" first_name="Hadley" id="247" last_name="Tyre" sales="5145.67" state="California"/>
+    <sale_record department="Grocery" first_name="Maurene" id="248" last_name="Klesse" sales="9881.52" state="Arizona"/>
+    <sale_record department="Grocery" first_name="Myrtie" id="249" last_name="De Beauchamp" sales="8141.18" state="California"/>
+    <sale_record department="Toys" first_name="Maitilde" id="250" last_name="Dodle" sales="6744.49" state="North Carolina"/>
+    <sale_record department="Outdoors" first_name="Annissa" id="251" last_name="Siveyer" sales="1771.8" state="Colorado"/>
+    <sale_record department="Garden" first_name="Codie" id="252" last_name="Vinck" sales="9259.78" state="Wisconsin"/>
+    <sale_record department="Movies" first_name="Deeyn" id="253" last_name="Merritt" sales="3719.19" state="Ohio"/>
+    <sale_record department="Baby" first_name="Angela" id="254" last_name="Pettisall" sales="3236.01" state="Texas"/>
+    <sale_record department="Health" first_name="Free" id="255" last_name="Schellig" sales="3557.96" state="California"/>
+    <sale_record department="Home" first_name="Gill" id="256" last_name="Rowlson" sales="4385.04" state="Florida"/>
+    <sale_record department="Baby" first_name="Lissy" id="257" last_name="Bortoletti" sales="6103.11" state="Michigan"/>
+    <sale_record department="Jewelry" first_name="Reade" id="258" last_name="Gabitis" sales="9696.65" state="California"/>
+    <sale_record department="Outdoors" first_name="Rey" id="259" last_name="Redan" sales="9734.44" state="Texas"/>
+    <sale_record department="Outdoors" first_name="Marcia" id="260" last_name="Rotherham" sales="5831.27" state="District of Columbia"/>
+    <sale_record department="Music" first_name="Madella" id="261" last_name="Northey" sales="8216.17" state="Ohio"/>
+    <sale_record department="Beauty" first_name="Bonni" id="262" last_name="Stapleford" sales="4552.75" state="Massachusetts"/>
+    <sale_record department="Garden" first_name="Anstice" id="263" last_name="Feak" sales="3574.7" state="Arizona"/>
+    <sale_record department="Baby" first_name="Issiah" id="264" last_name="Lovett" sales="9501.22" state="Florida"/>
+    <sale_record department="Baby" first_name="Francyne" id="265" last_name="Stolze" sales="2974.88" state="Alabama"/>
+    <sale_record department="Grocery" first_name="Sharia" id="266" last_name="MacKessock" sales="8777.12" state="Alabama"/>
+    <sale_record department="Computers" first_name="Judie" id="267" last_name="Maryan" sales="4451.14" state="District of Columbia"/>
+    <sale_record department="Games" first_name="Pierre" id="268" last_name="Girdlestone" sales="3491.63" state="Nevada"/>
+    <sale_record department="Computers" first_name="Ramsay" id="269" last_name="Mains" sales="7334.54" state="Florida"/>
+    <sale_record department="Books" first_name="Fran" id="270" last_name="Kuschel" sales="5191.42" state="California"/>
+    <sale_record department="Computers" first_name="Timothee" id="271" last_name="Van Dale" sales="5975.55" state="Iowa"/>
+    <sale_record department="Movies" first_name="Olivier" id="272" last_name="Freda" sales="5108.73" state="Wisconsin"/>
+    <sale_record department="Toys" first_name="Molly" id="273" last_name="Gudeman" sales="9693.2" state="Colorado"/>
+    <sale_record department="Baby" first_name="Elna" id="274" last_name="Freathy" sales="9685.75" state="Washington"/>
+    <sale_record department="Games" first_name="Alick" id="275" last_name="Lawling" sales="8343.77" state="Nevada"/>
+    <sale_record department="Beauty" first_name="Ginevra" id="276" last_name="Summerly" sales="5758.02" state="Illinois"/>
+    <sale_record department="Games" first_name="Thorny" id="277" last_name="Kropp" sales="9402.67" state="New York"/>
+    <sale_record department="Movies" first_name="Ingram" id="278" last_name="Ciccarello" sales="9672.78" state="California"/>
+    <sale_record department="Outdoors" first_name="Susanetta" id="279" last_name="Dorrins" sales="3008.41" state="Virginia"/>
+    <sale_record department="Industrial" first_name="Sena" id="280" last_name="Vossing" sales="1218.76" state="Colorado"/>
+    <sale_record department="Baby" first_name="Grantley" id="281" last_name="Cobby" sales="8172.77" state="Wisconsin"/>
+    <sale_record department="Games" first_name="Adriena" id="282" last_name="Mullett" sales="6112.41" state="Illinois"/>
+    <sale_record department="Beauty" first_name="Alessandra" id="283" last_name="Effemy" sales="2606.1" state="Florida"/>
+    <sale_record department="Electronics" first_name="Valentino" id="284" last_name="Volet" sales="1442.14" state="Tennessee"/>
+    <sale_record department="Music" first_name="Menard" id="285" last_name="Remnant" sales="8988.56" state="Mississippi"/>
+    <sale_record department="Computers" first_name="Stefa" id="286" last_name="Ege" sales="5892.09" state="Tennessee"/>
+    <sale_record department="Health" first_name="Lane" id="287" last_name="Orviss" sales="9366.15" state="Texas"/>
+    <sale_record department="Kids" first_name="Weidar" id="288" last_name="Goney" sales="6768.8" state="Texas"/>
+    <sale_record department="Outdoors" first_name="Raven" id="289" last_name="Rosedale" sales="2433.24" state="Tennessee"/>
+    <sale_record department="Baby" first_name="Prent" id="290" last_name="Twinterman" sales="8582.26" state="Indiana"/>
+    <sale_record department="Games" first_name="Ingrid" id="291" last_name="Westhofer" sales="4117.98" state="Florida"/>
+    <sale_record department="Sports" first_name="Annalee" id="292" last_name="Glozman" sales="7819.87" state="New York"/>
+    <sale_record department="Kids" first_name="Griswold" id="293" last_name="Buse" sales="6830.8" state="Utah"/>
+    <sale_record department="Kids" first_name="Paquito" id="294" last_name="Menere" sales="9886.7" state="New York"/>
+    <sale_record department="Shoes" first_name="Carr" id="295" last_name="D'Costa" sales="5957.82" state="Florida"/>
+    <sale_record department="Sports" first_name="Jenni" id="296" last_name="Orehead" sales="9467.49" state="Arizona"/>
+    <sale_record department="Kids" first_name="Octavius" id="297" last_name="Saura" sales="7177.91" state="Alaska"/>
+    <sale_record department="Toys" first_name="Gerek" id="298" last_name="Oxtoby" sales="9485.19" state="Missouri"/>
+    <sale_record department="Toys" first_name="Alayne" id="299" last_name="Anderson" sales="7517.22" state="California"/>
+    <sale_record department="Sports" first_name="Maible" id="300" last_name="Pashler" sales="7851.75" state="Texas"/>
+    <sale_record department="Health" first_name="Alfie" id="301" last_name="Aitken" sales="4045.93" state="Pennsylvania"/>
+    <sale_record department="Industrial" first_name="Johann" id="302" last_name="Bestiman" sales="5452.45" state="Virginia"/>
+    <sale_record department="Home" first_name="Rhodia" id="303" last_name="Peppett" sales="2341.5" state="Iowa"/>
+    <sale_record department="Books" first_name="Caesar" id="304" last_name="Habershaw" sales="4945.64" state="Colorado"/>
+    <sale_record department="Beauty" first_name="Harv" id="305" last_name="Clipsham" sales="2231.29" state="Ohio"/>
+    <sale_record department="Industrial" first_name="Gloriana" id="306" last_name="Whistlecraft" sales="6838.14" state="Virginia"/>
+    <sale_record department="Tools" first_name="Reagan" id="307" last_name="Scoines" sales="2774.53" state="New York"/>
+    <sale_record department="Books" first_name="Curtice" id="308" last_name="Greneham" sales="9888.09" state="Indiana"/>
+    <sale_record department="Baby" first_name="Graeme" id="309" last_name="Wheelan" sales="1915.66" state="Indiana"/>
+    <sale_record department="Automotive" first_name="Jilli" id="310" last_name="Cornwall" sales="9854.67" state="Florida"/>
+    <sale_record department="Tools" first_name="Eugenio" id="311" last_name="Van De Cappelle" sales="3227.04" state="Virginia"/>
+    <sale_record department="Movies" first_name="Bart" id="312" last_name="Witherden" sales="2843.96" state="Virginia"/>
+    <sale_record department="Kids" first_name="Linell" id="313" last_name="Starsmeare" sales="7796.79" state="Pennsylvania"/>
+    <sale_record department="Music" first_name="Ebba" id="314" last_name="Tythacott" sales="1186.93" state="Texas"/>
+    <sale_record department="Games" first_name="Kory" id="315" last_name="Cramphorn" sales="8372.45" state="California"/>
+    <sale_record department="Garden" first_name="Alidia" id="316" last_name="Ambrozik" sales="6337.32" state="District of Columbia"/>
+    <sale_record department="Outdoors" first_name="Trixi" id="317" last_name="Hattiff" sales="4526.27" state="North Carolina"/>
+    <sale_record department="Sports" first_name="Silvester" id="318" last_name="Dobbie" sales="8629.18" state="Indiana"/>
+    <sale_record department="Clothing" first_name="Melantha" id="319" last_name="Lathleiffure" sales="1584.99" state="Michigan"/>
+    <sale_record department="Computers" first_name="Hildagarde" id="320" last_name="Vellacott" sales="3532.55" state="Indiana"/>
+    <sale_record department="Grocery" first_name="Kennan" id="321" last_name="Nairn" sales="5309.76" state="New York"/>
+    <sale_record department="Home" first_name="Marlee" id="322" last_name="MacLise" sales="4800.55" state="Washington"/>
+    <sale_record department="Grocery" first_name="Sidney" id="323" last_name="Flaunier" sales="3405.07" state="Georgia"/>
+    <sale_record department="Toys" first_name="Lelah" id="324" last_name="Immer" sales="7800.8" state="Minnesota"/>
+    <sale_record department="Outdoors" first_name="Scot" id="325" last_name="Dundridge" sales="9219.29" state="Florida"/>
+    <sale_record department="Beauty" first_name="Scot" id="326" last_name="Crowhurst" sales="1843.29" state="Ohio"/>
+    <sale_record department="Health" first_name="Edith" id="327" last_name="Havis" sales="6497.91" state="California"/>
+    <sale_record department="Grocery" first_name="Felice" id="328" last_name="Quinney" sales="8219.09" state="Colorado"/>
+    <sale_record department="Baby" first_name="Caitlin" id="329" last_name="Olding" sales="1027.38" state="Maryland"/>
+    <sale_record department="Sports" first_name="Ortensia" id="330" last_name="Seville" sales="8830.71" state="California"/>
+    <sale_record department="Movies" first_name="Barbey" id="331" last_name="Scraggs" sales="4441.23" state="Virginia"/>
+    <sale_record department="Grocery" first_name="Duff" id="332" last_name="MacKim" sales="7927.05" state="Colorado"/>
+    <sale_record department="Industrial" first_name="Ingram" id="333" last_name="Blazhevich" sales="6657.03" state="District of Columbia"/>
+    <sale_record department="Toys" first_name="Petronia" id="334" last_name="Pizer" sales="7180.31" state="Kansas"/>
+    <sale_record department="Industrial" first_name="Hillary" id="335" last_name="Dalziel" sales="4226.72" state="District of Columbia"/>
+    <sale_record department="Grocery" first_name="Aloisia" id="336" last_name="Drewe" sales="4073.78" state="Ohio"/>
+    <sale_record department="Clothing" first_name="Sioux" id="337" last_name="Briddle" sales="5261.64" state="New York"/>
+    <sale_record department="Movies" first_name="Chrotoem" id="338" last_name="Blest" sales="4082.59" state="Alabama"/>
+    <sale_record department="Home" first_name="Sandy" id="339" last_name="Erik" sales="3331.02" state="California"/>
+    <sale_record department="Beauty" first_name="Teodoor" id="340" last_name="Lax" sales="5514.2" state="Texas"/>
+    <sale_record department="Music" first_name="Corby" id="341" last_name="Pead" sales="9795.77" state="North Carolina"/>
+    <sale_record department="Automotive" first_name="Cicely" id="342" last_name="Redemile" sales="7517.56" state="Colorado"/>
+    <sale_record department="Automotive" first_name="Ellsworth" id="343" last_name="Cathcart" sales="3542.13" state="Michigan"/>
+    <sale_record department="Jewelry" first_name="Reube" id="344" last_name="Woodhall" sales="1555.54" state="Florida"/>
+    <sale_record department="Sports" first_name="Delores" id="345" last_name="Arnaudi" sales="5872.28" state="Florida"/>
+    <sale_record department="Toys" first_name="Casi" id="346" last_name="Mettrick" sales="2979.21" state="Oklahoma"/>
+    <sale_record department="Jewelry" first_name="Carmela" id="347" last_name="Getch" sales="1616.23" state="Nevada"/>
+    <sale_record department="Outdoors" first_name="Rudie" id="348" last_name="Mockford" sales="9867.6" state="Virginia"/>
+    <sale_record department="Baby" first_name="Karine" id="349" last_name="Srawley" sales="6151.39" state="Virginia"/>
+    <sale_record department="Music" first_name="Baldwin" id="350" last_name="Gulc" sales="7447.35" state="Virginia"/>
+    <sale_record department="Toys" first_name="Perice" id="351" last_name="Evennett" sales="5113.83" state="California"/>
+    <sale_record department="Sports" first_name="Brynn" id="352" last_name="Keasey" sales="1723.69" state="New Mexico"/>
+    <sale_record department="Toys" first_name="Nannie" id="353" last_name="Jobin" sales="5155.47" state="Florida"/>
+    <sale_record department="Jewelry" first_name="Cazzie" id="354" last_name="Stannard" sales="1316.46" state="California"/>
+    <sale_record department="Games" first_name="Ashby" id="355" last_name="Kinvig" sales="1379.93" state="Arizona"/>
+    <sale_record department="Health" first_name="Dniren" id="356" last_name="Matteotti" sales="8472.74" state="Michigan"/>
+    <sale_record department="Health" first_name="Clarinda" id="357" last_name="Stronghill" sales="7709.62" state="Colorado"/>
+    <sale_record department="Garden" first_name="Arie" id="358" last_name="Sollime" sales="8961.47" state="Florida"/>
+    <sale_record department="Music" first_name="Kendell" id="359" last_name="Binden" sales="9659.9" state="New York"/>
+    <sale_record department="Books" first_name="Berrie" id="360" last_name="Cawt" sales="9763.42" state="Ohio"/>
+    <sale_record department="Grocery" first_name="Theadora" id="361" last_name="Elham" sales="8334.94" state="New York"/>
+    <sale_record department="Health" first_name="Farr" id="362" last_name="De Cleen" sales="8253.71" state="Colorado"/>
+    <sale_record department="Movies" first_name="Marley" id="363" last_name="Ralston" sales="8262.46" state="Arizona"/>
+    <sale_record department="Grocery" first_name="Charmion" id="364" last_name="Labbe" sales="8380.72" state="Arizona"/>
+    <sale_record department="Jewelry" first_name="Jamesy" id="365" last_name="Tramel" sales="5294.17" state="Florida"/>
+    <sale_record department="Computers" first_name="Maxi" id="366" last_name="Putland" sales="6515.12" state="California"/>
+    <sale_record department="Movies" first_name="Annmaria" id="367" last_name="Lisciandri" sales="5517.47" state="Ohio"/>
+    <sale_record department="Clothing" first_name="Kesley" id="368" last_name="Dory" sales="2858.11" state="North Carolina"/>
+    <sale_record department="Clothing" first_name="Bobbe" id="369" last_name="Lovell" sales="3168.79" state="California"/>
+    <sale_record department="Baby" first_name="Carree" id="370" last_name="Feechum" sales="9695.08" state="Florida"/>
+    <sale_record department="Garden" first_name="Martica" id="371" last_name="Joret" sales="9029.07" state="New York"/>
+    <sale_record department="Baby" first_name="Edward" id="372" last_name="Dorman" sales="7954.99" state="Texas"/>
+    <sale_record department="Sports" first_name="Toby" id="373" last_name="Rizzelli" sales="6127.51" state="California"/>
+    <sale_record department="Books" first_name="Any" id="374" last_name="Dries" sales="3395.17" state="Missouri"/>
+    <sale_record department="Health" first_name="Berri" id="375" last_name="Redparth" sales="4479.55" state="Maryland"/>
+    <sale_record department="Baby" first_name="Concordia" id="376" last_name="Kleint" sales="8444.82" state="Colorado"/>
+    <sale_record department="Automotive" first_name="Ivett" id="377" last_name="Byneth" sales="4540.35" state="California"/>
+    <sale_record department="Toys" first_name="Octavia" id="378" last_name="Eckels" sales="9313.45" state="Pennsylvania"/>
+    <sale_record department="Movies" first_name="Addy" id="379" last_name="Bartolijn" sales="1725.63" state="Texas"/>
+    <sale_record department="Jewelry" first_name="Gilbert" id="380" last_name="Baty" sales="1506.94" state="California"/>
+    <sale_record department="Sports" first_name="Velma" id="381" last_name="Akam" sales="6549.82" state="Florida"/>
+    <sale_record department="Kids" first_name="Magdaia" id="382" last_name="Cund" sales="5652.11" state="California"/>
+    <sale_record department="Toys" first_name="Allyson" id="383" last_name="Siggins" sales="4389.29" state="Virginia"/>
+    <sale_record department="Shoes" first_name="Dodie" id="384" last_name="Blackstone" sales="2276.05" state="Florida"/>
+    <sale_record department="Sports" first_name="Pavla" id="385" last_name="Macieja" sales="5985.14" state="Texas"/>
+    <sale_record department="Automotive" first_name="Asia" id="386" last_name="McMonnies" sales="4937.44" state="Colorado"/>
+    <sale_record department="Beauty" first_name="Alonzo" id="387" last_name="Cicero" sales="9924.73" state="Florida"/>
+    <sale_record department="Outdoors" first_name="Wendell" id="388" last_name="Tett" sales="3591.92" state="District of Columbia"/>
+    <sale_record department="Electronics" first_name="Eldredge" id="389" last_name="Speke" sales="6136.32" state="Illinois"/>
+    <sale_record department="Shoes" first_name="Benny" id="390" last_name="Scothron" sales="5266.19" state="Ohio"/>
+    <sale_record department="Baby" first_name="Em" id="391" last_name="Gantz" sales="2344.69" state="Virginia"/>
+    <sale_record department="Movies" first_name="Bill" id="392" last_name="Gun" sales="8568.97" state="Texas"/>
+    <sale_record department="Jewelry" first_name="Palmer" id="393" last_name="Honywill" sales="6387.26" state="North Carolina"/>
+    <sale_record department="Music" first_name="Gradeigh" id="394" last_name="Synan" sales="7084.63" state="District of Columbia"/>
+    <sale_record department="Home" first_name="Cherey" id="395" last_name="Brunskill" sales="4062.21" state="Louisiana"/>
+    <sale_record department="Automotive" first_name="Meyer" id="396" last_name="Chippendale" sales="3912.52" state="Alabama"/>
+    <sale_record department="Sports" first_name="Barny" id="397" last_name="Ebbetts" sales="4267.13" state="Indiana"/>
+    <sale_record department="Music" first_name="Dulce" id="398" last_name="Hayford" sales="4998.56" state="Indiana"/>
+    <sale_record department="Movies" first_name="Shanta" id="399" last_name="Audiss" sales="1367.22" state="Florida"/>
+    <sale_record department="Outdoors" first_name="Edita" id="400" last_name="Sommerling" sales="2821.45" state="Nebraska"/>
+    <sale_record department="Beauty" first_name="Tony" id="401" last_name="Throughton" sales="6208.82" state="Florida"/>
+    <sale_record department="Kids" first_name="Rodie" id="402" last_name="Connichie" sales="4214.92" state="California"/>
+    <sale_record department="Outdoors" first_name="Scarlett" id="403" last_name="Darco" sales="4337.66" state="Colorado"/>
+    <sale_record department="Shoes" first_name="Maurene" id="404" last_name="Colt" sales="5800.07" state="Alabama"/>
+    <sale_record department="Jewelry" first_name="Candide" id="405" last_name="Jenken" sales="4371.41" state="Massachusetts"/>
+    <sale_record department="Clothing" first_name="Tim" id="406" last_name="Cavie" sales="6267.21" state="New Jersey"/>
+    <sale_record department="Books" first_name="Saxon" id="407" last_name="Werndley" sales="9635.21" state="Virginia"/>
+    <sale_record department="Beauty" first_name="Griz" id="408" last_name="Darbey" sales="2535.05" state="Oklahoma"/>
+    <sale_record department="Automotive" first_name="Veronique" id="409" last_name="Miklem" sales="9670.43" state="Georgia"/>
+    <sale_record department="Computers" first_name="Kara-lynn" id="410" last_name="Rowan" sales="2787.35" state="Maryland"/>
+    <sale_record department="Music" first_name="Thebault" id="411" last_name="Itshak" sales="9453.98" state="California"/>
+    <sale_record department="Games" first_name="Lorraine" id="412" last_name="Headland" sales="4141.99" state="Florida"/>
+    <sale_record department="Grocery" first_name="Sal" id="413" last_name="Oiller" sales="6526.7" state="Alabama"/>
+    <sale_record department="Sports" first_name="Geno" id="414" last_name="Grealish" sales="9199.38" state="Florida"/>
+    <sale_record department="Health" first_name="Nero" id="415" last_name="Janny" sales="3829.33" state="Ohio"/>
+    <sale_record department="Sports" first_name="Felice" id="416" last_name="Glenwright" sales="5247.11" state="Texas"/>
+    <sale_record department="Baby" first_name="Wilden" id="417" last_name="Arnke" sales="3355.86" state="New York"/>
+    <sale_record department="Automotive" first_name="Joshua" id="418" last_name="Tilburn" sales="4187.05" state="California"/>
+    <sale_record department="Computers" first_name="Wake" id="419" last_name="Terese" sales="3716.3" state="District of Columbia"/>
+    <sale_record department="Music" first_name="Dolli" id="420" last_name="Burnand" sales="9759.99" state="Tennessee"/>
+    <sale_record department="Movies" first_name="Sari" id="421" last_name="Sloey" sales="1263.06" state="South Carolina"/>
+    <sale_record department="Toys" first_name="Ninnetta" id="422" last_name="Tanby" sales="6059.37" state="Nevada"/>
+    <sale_record department="Computers" first_name="Indira" id="423" last_name="Bellard" sales="7568.02" state="North Carolina"/>
+    <sale_record department="Industrial" first_name="Kaleb" id="424" last_name="FitzAlan" sales="7389.37" state="Pennsylvania"/>
+    <sale_record department="Health" first_name="Moishe" id="425" last_name="Willoughley" sales="3179.89" state="Tennessee"/>
+    <sale_record department="Beauty" first_name="Livy" id="426" last_name="Dahl" sales="7299.35" state="Ohio"/>
+    <sale_record department="Toys" first_name="Elmo" id="427" last_name="Thring" sales="5602.82" state="Virginia"/>
+    <sale_record department="Health" first_name="Fredia" id="428" last_name="Skpsey" sales="5813.92" state="Pennsylvania"/>
+    <sale_record department="Movies" first_name="Darryl" id="429" last_name="Penelli" sales="1597.24" state="North Carolina"/>
+    <sale_record department="Computers" first_name="Hercule" id="430" last_name="Dainton" sales="6012.34" state="West Virginia"/>
+    <sale_record department="Baby" first_name="Ebeneser" id="431" last_name="Matyukon" sales="7675.64" state="Massachusetts"/>
+    <sale_record department="Electronics" first_name="Orrin" id="432" last_name="Anstiss" sales="9062.22" state="Illinois"/>
+    <sale_record department="Toys" first_name="Hermy" id="433" last_name="Tuminini" sales="9960.43" state="Maryland"/>
+    <sale_record department="Outdoors" first_name="Munmro" id="434" last_name="Karlolczak" sales="2966.26" state="Ohio"/>
+    <sale_record department="Grocery" first_name="Dmitri" id="435" last_name="McKechnie" sales="9389.65" state="Washington"/>
+    <sale_record department="Baby" first_name="Reinold" id="436" last_name="Scardefield" sales="4302.66" state="Massachusetts"/>
+    <sale_record department="Baby" first_name="Dinah" id="437" last_name="Christofle" sales="7643.7" state="California"/>
+    <sale_record department="Clothing" first_name="Gottfried" id="438" last_name="Epsley" sales="6086.22" state="District of Columbia"/>
+    <sale_record department="Industrial" first_name="Ilise" id="439" last_name="Donnel" sales="6000.45" state="Florida"/>
+    <sale_record department="Music" first_name="Zarla" id="440" last_name="Orwell" sales="1149.11" state="Connecticut"/>
+    <sale_record department="Movies" first_name="Isabelita" id="441" last_name="Colchett" sales="6592.43" state="California"/>
+    <sale_record department="Sports" first_name="Nap" id="442" last_name="Murthwaite" sales="1977.73" state="California"/>
+    <sale_record department="Kids" first_name="Junina" id="443" last_name="Klossek" sales="1366.11" state="Wisconsin"/>
+    <sale_record department="Beauty" first_name="Korie" id="444" last_name="Iuorio" sales="6350.68" state="Texas"/>
+    <sale_record department="Beauty" first_name="Ruby" id="445" last_name="Mixon" sales="4731.01" state="Arizona"/>
+    <sale_record department="Electronics" first_name="Lonnie" id="446" last_name="Lobley" sales="9580.65" state="Maryland"/>
+    <sale_record department="Toys" first_name="Gran" id="447" last_name="Toopin" sales="3366.14" state="Arizona"/>
+    <sale_record department="Automotive" first_name="Lezley" id="448" last_name="Kanter" sales="5234.8" state="Kentucky"/>
+    <sale_record department="Shoes" first_name="Mickie" id="449" last_name="Bouller" sales="1828.97" state="Tennessee"/>
+    <sale_record department="Toys" first_name="Eudora" id="450" last_name="Aldersea" sales="8362.85" state="Nebraska"/>
+    <sale_record department="Beauty" first_name="Annie" id="451" last_name="Vigurs" sales="5971.8" state="California"/>
+    <sale_record department="Garden" first_name="Truda" id="452" last_name="Hulkes" sales="8542.36" state="California"/>
+    <sale_record department="Baby" first_name="Essy" id="453" last_name="Tinklin" sales="5182.0" state="Arizona"/>
+    <sale_record department="Health" first_name="Anabella" id="454" last_name="Compford" sales="2638.45" state="North Carolina"/>
+    <sale_record department="Games" first_name="D'arcy" id="455" last_name="Sutherns" sales="7646.21" state="South Carolina"/>
+    <sale_record department="Home" first_name="Johnathan" id="456" last_name="Crisp" sales="2670.35" state="New York"/>
+    <sale_record department="Health" first_name="Ariadne" id="457" last_name="Kief" sales="4501.28" state="Georgia"/>
+    <sale_record department="Baby" first_name="Ruthe" id="458" last_name="Patria" sales="2703.0" state="Florida"/>
+    <sale_record department="Computers" first_name="Kermie" id="459" last_name="Sharman" sales="5936.12" state="Texas"/>
+    <sale_record department="Baby" first_name="Gerrie" id="460" last_name="Raymont" sales="8766.43" state="Florida"/>
+    <sale_record department="Garden" first_name="Ferdy" id="461" last_name="Samme" sales="6317.16" state="California"/>
+    <sale_record department="Home" first_name="Jerry" id="462" last_name="Vasilyevski" sales="2862.92" state="Minnesota"/>
+    <sale_record department="Health" first_name="Brana" id="463" last_name="Rubbens" sales="7298.42" state="Arizona"/>
+    <sale_record department="Grocery" first_name="Cob" id="464" last_name="Loffill" sales="4381.45" state="Pennsylvania"/>
+    <sale_record department="Jewelry" first_name="Selma" id="465" last_name="Shrigley" sales="5061.4" state="Massachusetts"/>
+    <sale_record department="Grocery" first_name="Maggee" id="466" last_name="Munro" sales="6921.17" state="Oklahoma"/>
+    <sale_record department="Home" first_name="Bobbee" id="467" last_name="Whitlam" sales="2854.7" state="Virginia"/>
+    <sale_record department="Movies" first_name="Martino" id="468" last_name="Daglish" sales="4206.94" state="West Virginia"/>
+    <sale_record department="Sports" first_name="Dorise" id="469" last_name="Ortiga" sales="6978.72" state="Michigan"/>
+    <sale_record department="Books" first_name="Lucia" id="470" last_name="Troy" sales="6620.5" state="Colorado"/>
+    <sale_record department="Outdoors" first_name="Morly" id="471" last_name="Steers" sales="2877.92" state="Idaho"/>
+    <sale_record department="Automotive" first_name="Toddie" id="472" last_name="Mandy" sales="7822.55" state="Texas"/>
+    <sale_record department="Tools" first_name="Raeann" id="473" last_name="Dairton" sales="6924.28" state="California"/>
+    <sale_record department="Grocery" first_name="Lauri" id="474" last_name="Rehn" sales="7834.28" state="Colorado"/>
+    <sale_record department="Grocery" first_name="Ursola" id="475" last_name="D'Andrea" sales="1004.58" state="Alaska"/>
+    <sale_record department="Industrial" first_name="Aurelea" id="476" last_name="Hollington" sales="9390.04" state="New York"/>
+    <sale_record department="Jewelry" first_name="Willi" id="477" last_name="Bangs" sales="1638.15" state="Michigan"/>
+    <sale_record department="Health" first_name="Sherline" id="478" last_name="Holcroft" sales="4017.21" state="Illinois"/>
+    <sale_record department="Outdoors" first_name="Artair" id="479" last_name="Dossit" sales="1389.05" state="Georgia"/>
+    <sale_record department="Grocery" first_name="Ahmad" id="480" last_name="Blaik" sales="3181.86" state="California"/>
+    <sale_record department="Outdoors" first_name="Yard" id="481" last_name="Lindell" sales="8587.1" state="New York"/>
+    <sale_record department="Garden" first_name="Faith" id="482" last_name="Cutteridge" sales="5683.84" state="Nevada"/>
+    <sale_record department="Sports" first_name="Rea" id="483" last_name="Bazeley" sales="8777.03" state="New York"/>
+    <sale_record department="Home" first_name="Pet" id="484" last_name="Blackett" sales="9197.48" state="Indiana"/>
+    <sale_record department="Electronics" first_name="West" id="485" last_name="Fenck" sales="4193.33" state="California"/>
+    <sale_record department="Shoes" first_name="Rhiamon" id="486" last_name="Kellard" sales="4444.39" state="Delaware"/>
+    <sale_record department="Shoes" first_name="Garrett" id="487" last_name="Choulerton" sales="5369.85" state="Tennessee"/>
+    <sale_record department="Shoes" first_name="Sisile" id="488" last_name="McCambrois" sales="4557.55" state="Massachusetts"/>
+    <sale_record department="Grocery" first_name="Clem" id="489" last_name="Swaine" sales="4036.59" state="Pennsylvania"/>
+    <sale_record department="Shoes" first_name="Abbi" id="490" last_name="Schwier" sales="1464.87" state="California"/>
+    <sale_record department="Industrial" first_name="Shelley" id="491" last_name="Belderfield" sales="6452.71" state="Texas"/>
+    <sale_record department="Tools" first_name="Haze" id="492" last_name="Williamson" sales="2803.74" state="Utah"/>
+    <sale_record department="Grocery" first_name="Boot" id="493" last_name="Dyke" sales="7580.94" state="District of Columbia"/>
+    <sale_record department="Garden" first_name="Donetta" id="494" last_name="Oger" sales="1165.25" state="Illinois"/>
+    <sale_record department="Electronics" first_name="Wald" id="495" last_name="Taig" sales="6728.3" state="Maryland"/>
+    <sale_record department="Grocery" first_name="Meade" id="496" last_name="Belchem" sales="5852.52" state="Michigan"/>
+    <sale_record department="Industrial" first_name="Domenic" id="497" last_name="Filipyev" sales="8833.6" state="Illinois"/>
+    <sale_record department="Sports" first_name="Myrtle" id="498" last_name="Afonso" sales="4119.35" state="California"/>
+    <sale_record department="Jewelry" first_name="Cullie" id="499" last_name="Kubiczek" sales="5541.26" state="Delaware"/>
+    <sale_record department="Automotive" first_name="Christine" id="500" last_name="Eadon" sales="5310.11" state="California"/>
+    <sale_record department="Garden" first_name="Melli" id="501" last_name="Menaul" sales="4044.96" state="Indiana"/>
+    <sale_record department="Shoes" first_name="Trista" id="502" last_name="Elven" sales="1445.93" state="Georgia"/>
+    <sale_record department="Shoes" first_name="Swen" id="503" last_name="Waterworth" sales="3838.07" state="New York"/>
+    <sale_record department="Grocery" first_name="Claudina" id="504" last_name="Timeby" sales="6459.97" state="Nevada"/>
+    <sale_record department="Baby" first_name="Layton" id="505" last_name="Alwin" sales="5025.69" state="Florida"/>
+    <sale_record department="Shoes" first_name="Clementia" id="506" last_name="Hechlin" sales="9750.69" state="Louisiana"/>
+    <sale_record department="Clothing" first_name="Carrissa" id="507" last_name="Smerdon" sales="8786.72" state="Virginia"/>
+    <sale_record department="Shoes" first_name="Katharina" id="508" last_name="Dionisio" sales="3866.1" state="Florida"/>
+    <sale_record department="Garden" first_name="Herminia" id="509" last_name="Limmer" sales="6859.28" state="Connecticut"/>
+    <sale_record department="Movies" first_name="Bertie" id="510" last_name="Inglesent" sales="4058.12" state="Washington"/>
+    <sale_record department="Beauty" first_name="Marianna" id="511" last_name="Thurlbourne" sales="6612.29" state="Washington"/>
+    <sale_record department="Electronics" first_name="Renie" id="512" last_name="Eddington" sales="4057.47" state="Florida"/>
+    <sale_record department="Home" first_name="Sib" id="513" last_name="Casterton" sales="6641.76" state="Michigan"/>
+    <sale_record department="Electronics" first_name="Quinn" id="514" last_name="Frayling" sales="3806.88" state="Washington"/>
+    <sale_record department="Books" first_name="Joete" id="515" last_name="Silk" sales="5040.53" state="Alabama"/>
+    <sale_record department="Industrial" first_name="Alie" id="516" last_name="Eke" sales="6736.98" state="Nevada"/>
+    <sale_record department="Kids" first_name="Perceval" id="517" last_name="Steketee" sales="1849.87" state="California"/>
+    <sale_record department="Home" first_name="Jasmine" id="518" last_name="Mibourne" sales="7790.01" state="Texas"/>
+    <sale_record department="Sports" first_name="Thurstan" id="519" last_name="Brown" sales="6967.78" state="California"/>
+    <sale_record department="Sports" first_name="Aila" id="520" last_name="Gyrgorcewicx" sales="1944.16" state="Utah"/>
+    <sale_record department="Automotive" first_name="Tanitansy" id="521" last_name="Foley" sales="3262.13" state="New York"/>
+    <sale_record department="Outdoors" first_name="Theodor" id="522" last_name="Leith-Harvey" sales="8515.01" state="Florida"/>
+    <sale_record department="Health" first_name="Neall" id="523" last_name="Oventon" sales="5090.24" state="Texas"/>
+    <sale_record department="Shoes" first_name="Bobbe" id="524" last_name="Hansmann" sales="7696.48" state="Texas"/>
+    <sale_record department="Clothing" first_name="Scott" id="525" last_name="Marples" sales="4715.65" state="Maryland"/>
+    <sale_record department="Electronics" first_name="Farand" id="526" last_name="Studdard" sales="1750.2" state="Michigan"/>
+    <sale_record department="Computers" first_name="Melissa" id="527" last_name="Trounce" sales="8524.35" state="New York"/>
+    <sale_record department="Music" first_name="Hebert" id="528" last_name="Chritchlow" sales="1699.81" state="Texas"/>
+    <sale_record department="Outdoors" first_name="Nial" id="529" last_name="Summerfield" sales="5355.92" state="Utah"/>
+    <sale_record department="Shoes" first_name="Ethyl" id="530" last_name="Rathke" sales="5729.14" state="Nevada"/>
+    <sale_record department="Home" first_name="Bernarr" id="531" last_name="Blenkhorn" sales="9473.3" state="Arizona"/>
+    <sale_record department="Outdoors" first_name="Isa" id="532" last_name="Mc Kellen" sales="7171.19" state="California"/>
+    <sale_record department="Industrial" first_name="Annadiana" id="533" last_name="Rogez" sales="8598.73" state="Florida"/>
+    <sale_record department="Kids" first_name="Lorne" id="534" last_name="Disney" sales="4351.07" state="Texas"/>
+    <sale_record department="Toys" first_name="Aurlie" id="535" last_name="Spaughton" sales="3289.53" state="Colorado"/>
+    <sale_record department="Industrial" first_name="Pepito" id="536" last_name="Crommett" sales="4763.36" state="Washington"/>
+    <sale_record department="Outdoors" first_name="Eugenio" id="537" last_name="Jzak" sales="7959.63" state="Texas"/>
+    <sale_record department="Toys" first_name="Nanon" id="538" last_name="Stiller" sales="5594.19" state="Texas"/>
+    <sale_record department="Music" first_name="Devi" id="539" last_name="Castagneto" sales="5885.32" state="North Carolina"/>
+    <sale_record department="Music" first_name="Dan" id="540" last_name="Limpenny" sales="1733.08" state="Georgia"/>
+    <sale_record department="Electronics" first_name="Welsh" id="541" last_name="Gawne" sales="7738.98" state="Connecticut"/>
+    <sale_record department="Home" first_name="Benita" id="542" last_name="Delea" sales="8483.58" state="Ohio"/>
+    <sale_record department="Games" first_name="Ginni" id="543" last_name="Spours" sales="2842.96" state="Washington"/>
+    <sale_record department="Movies" first_name="Jerrome" id="544" last_name="Levene" sales="9317.89" state="California"/>
+    <sale_record department="Outdoors" first_name="Erv" id="545" last_name="Lattos" sales="2252.59" state="California"/>
+    <sale_record department="Computers" first_name="Fielding" id="546" last_name="Chant" sales="4870.52" state="Maryland"/>
+    <sale_record department="Baby" first_name="Clair" id="547" last_name="Trawin" sales="2143.85" state="New York"/>
+    <sale_record department="Movies" first_name="Mikaela" id="548" last_name="Ferie" sales="7535.62" state="Delaware"/>
+    <sale_record department="Toys" first_name="Arabella" id="549" last_name="Dighton" sales="3000.93" state="Hawaii"/>
+    <sale_record department="Garden" first_name="Rae" id="550" last_name="Chatfield" sales="9439.67" state="Texas"/>
+    <sale_record department="Grocery" first_name="Flossie" id="551" last_name="Dalby" sales="4527.96" state="California"/>
+    <sale_record department="Automotive" first_name="Leda" id="552" last_name="Ewells" sales="2062.6" state="District of Columbia"/>
+    <sale_record department="Toys" first_name="Adair" id="553" last_name="Dixsee" sales="4512.36" state="Georgia"/>
+    <sale_record department="Games" first_name="Vally" id="554" last_name="Havenhand" sales="4396.64" state="Colorado"/>
+    <sale_record department="Sports" first_name="Julietta" id="555" last_name="Booth-Jarvis" sales="3592.28" state="Mississippi"/>
+    <sale_record department="Books" first_name="Henderson" id="556" last_name="Rollin" sales="4625.22" state="California"/>
+    <sale_record department="Outdoors" first_name="Emmerich" id="557" last_name="Barok" sales="1214.21" state="Texas"/>
+    <sale_record department="Toys" first_name="Barry" id="558" last_name="Burchall" sales="3609.78" state="Kentucky"/>
+    <sale_record department="Toys" first_name="Betsey" id="559" last_name="Woolnough" sales="2528.41" state="California"/>
+    <sale_record department="Kids" first_name="Germain" id="560" last_name="Hawtry" sales="9944.41" state="Tennessee"/>
+    <sale_record department="Electronics" first_name="Ardys" id="561" last_name="Buterton" sales="8360.16" state="New York"/>
+    <sale_record department="Outdoors" first_name="Lenci" id="562" last_name="Toulson" sales="2652.07" state="Georgia"/>
+    <sale_record department="Movies" first_name="Myrah" id="563" last_name="Tomkin" sales="9820.06" state="Virginia"/>
+    <sale_record department="Tools" first_name="Essy" id="564" last_name="Binnell" sales="4990.21" state="District of Columbia"/>
+    <sale_record department="Baby" first_name="Godfry" id="565" last_name="Doram" sales="6025.78" state="California"/>
+    <sale_record department="Health" first_name="Alon" id="566" last_name="Eliff" sales="9424.29" state="Texas"/>
+    <sale_record department="Tools" first_name="Prudi" id="567" last_name="Sellstrom" sales="3640.7" state="Texas"/>
+    <sale_record department="Outdoors" first_name="Harmon" id="568" last_name="Gargett" sales="9525.67" state="Arizona"/>
+    <sale_record department="Garden" first_name="Sunny" id="569" last_name="Weall" sales="6202.77" state="Texas"/>
+    <sale_record department="Home" first_name="Lind" id="570" last_name="Kleinlerer" sales="6149.03" state="Washington"/>
+    <sale_record department="Tools" first_name="Brander" id="571" last_name="Kerr" sales="6256.4" state="Tennessee"/>
+    <sale_record department="Computers" first_name="Alejandrina" id="572" last_name="Cordelet" sales="2244.55" state="Idaho"/>
+    <sale_record department="Health" first_name="Dwight" id="573" last_name="Tolmie" sales="7605.19" state="Tennessee"/>
+    <sale_record department="Books" first_name="Rriocard" id="574" last_name="Piecha" sales="3861.84" state="Texas"/>
+    <sale_record department="Grocery" first_name="Sylvia" id="575" last_name="Passby" sales="5079.93" state="Oregon"/>
+    <sale_record department="Sports" first_name="Coretta" id="576" last_name="Henderson" sales="2243.8" state="Arizona"/>
+    <sale_record department="Shoes" first_name="Thornton" id="577" last_name="Stelle" sales="6563.32" state="Texas"/>
+    <sale_record department="Beauty" first_name="Vic" id="578" last_name="Boykett" sales="1196.51" state="Iowa"/>
+    <sale_record department="Electronics" first_name="Marigold" id="579" last_name="Goncalo" sales="2376.25" state="Georgia"/>
+    <sale_record department="Movies" first_name="Alis" id="580" last_name="Ezele" sales="6542.15" state="Florida"/>
+    <sale_record department="Home" first_name="Curt" id="581" last_name="Argrave" sales="8391.83" state="Wisconsin"/>
+    <sale_record department="Baby" first_name="Leonard" id="582" last_name="Bispo" sales="7518.45" state="District of Columbia"/>
+    <sale_record department="Beauty" first_name="Fawn" id="583" last_name="Dane" sales="7555.36" state="Wisconsin"/>
+    <sale_record department="Health" first_name="Virgilio" id="584" last_name="Spyer" sales="3829.13" state="Oklahoma"/>
+    <sale_record department="Beauty" first_name="Genevra" id="585" last_name="Manketell" sales="5235.43" state="California"/>
+    <sale_record department="Outdoors" first_name="Opalina" id="586" last_name="Pamment" sales="8170.97" state="Massachusetts"/>
+    <sale_record department="Automotive" first_name="Di" id="587" last_name="Bleddon" sales="2431.54" state="Ohio"/>
+    <sale_record department="Industrial" first_name="Tobye" id="588" last_name="Kilfeder" sales="8892.67" state="Texas"/>
+    <sale_record department="Computers" first_name="Merola" id="589" last_name="Baly" sales="9650.47" state="Minnesota"/>
+    <sale_record department="Music" first_name="Rozalie" id="590" last_name="Mapes" sales="3336.35" state="Texas"/>
+    <sale_record department="Movies" first_name="Ruthi" id="591" last_name="Bonnet" sales="7842.04" state="Georgia"/>
+    <sale_record department="Computers" first_name="Abbott" id="592" last_name="Zebedee" sales="4915.84" state="District of Columbia"/>
+    <sale_record department="Sports" first_name="Spike" id="593" last_name="Bahl" sales="2149.07" state="Tennessee"/>
+    <sale_record department="Outdoors" first_name="Germaine" id="594" last_name="Matiewe" sales="5377.65" state="West Virginia"/>
+    <sale_record department="Garden" first_name="Domingo" id="595" last_name="Hairsnape" sales="2287.26" state="California"/>
+    <sale_record department="Beauty" first_name="Cleon" id="596" last_name="Mattis" sales="3295.57" state="Florida"/>
+    <sale_record department="Garden" first_name="Jackson" id="597" last_name="Nettle" sales="8093.63" state="Washington"/>
+    <sale_record department="Clothing" first_name="Worthington" id="598" last_name="Abbyss" sales="2194.1" state="California"/>
+    <sale_record department="Home" first_name="Tara" id="599" last_name="Palister" sales="4524.51" state="Ohio"/>
+    <sale_record department="Shoes" first_name="Barret" id="600" last_name="Nansom" sales="4883.67" state="Ohio"/>
+    <sale_record department="Garden" first_name="Maudie" id="601" last_name="Pyffe" sales="1003.67" state="California"/>
+    <sale_record department="Games" first_name="Grace" id="602" last_name="Gillitt" sales="9098.72" state="California"/>
+    <sale_record department="Computers" first_name="Tarrance" id="603" last_name="Deporte" sales="9924.53" state="District of Columbia"/>
+    <sale_record department="Jewelry" first_name="Gerianna" id="604" last_name="Itzkovich" sales="1241.06" state="Arizona"/>
+    <sale_record department="Home" first_name="Norris" id="605" last_name="Sidle" sales="2732.06" state="Alabama"/>
+    <sale_record department="Beauty" first_name="Jeni" id="606" last_name="Benley" sales="7967.43" state="New York"/>
+    <sale_record department="Grocery" first_name="Merill" id="607" last_name="Raggles" sales="8419.79" state="Arizona"/>
+    <sale_record department="Tools" first_name="Pancho" id="608" last_name="McCrostie" sales="3075.68" state="Pennsylvania"/>
+    <sale_record department="Music" first_name="Vanya" id="609" last_name="Woof" sales="3298.52" state="Florida"/>
+    <sale_record department="Toys" first_name="Gal" id="610" last_name="Gardiner" sales="4691.87" state="South Carolina"/>
+    <sale_record department="Computers" first_name="Daisey" id="611" last_name="Smye" sales="2397.28" state="Oklahoma"/>
+    <sale_record department="Home" first_name="Anastasie" id="612" last_name="Regis" sales="4166.57" state="California"/>
+    <sale_record department="Computers" first_name="Celesta" id="613" last_name="Lescop" sales="9249.51" state="Oregon"/>
+    <sale_record department="Baby" first_name="Thoma" id="614" last_name="Fear" sales="6632.98" state="California"/>
+    <sale_record department="Toys" first_name="Magda" id="615" last_name="Cardero" sales="8221.4" state="Kentucky"/>
+    <sale_record department="Outdoors" first_name="Conny" id="616" last_name="Downing" sales="7237.11" state="Florida"/>
+    <sale_record department="Games" first_name="Shirl" id="617" last_name="Dignum" sales="4154.95" state="Washington"/>
+    <sale_record department="Movies" first_name="Adriane" id="618" last_name="Frill" sales="6340.89" state="Tennessee"/>
+    <sale_record department="Health" first_name="Imogene" id="619" last_name="Geary" sales="8779.4" state="Oklahoma"/>
+    <sale_record department="Kids" first_name="Lay" id="620" last_name="Presslie" sales="5531.67" state="California"/>
+    <sale_record department="Computers" first_name="Bertine" id="621" last_name="Barriball" sales="9889.61" state="Florida"/>
+    <sale_record department="Garden" first_name="Bert" id="622" last_name="Melville" sales="4543.73" state="Virginia"/>
+    <sale_record department="Kids" first_name="Therese" id="623" last_name="Godsil" sales="3025.36" state="California"/>
+    <sale_record department="Music" first_name="Nickolas" id="624" last_name="Dory" sales="1943.39" state="Pennsylvania"/>
+    <sale_record department="Baby" first_name="Ryan" id="625" last_name="Render" sales="4097.75" state="Colorado"/>
+    <sale_record department="Movies" first_name="Corbin" id="626" last_name="Murrigan" sales="9576.69" state="Florida"/>
+    <sale_record department="Automotive" first_name="Caye" id="627" last_name="Gyngyll" sales="4507.36" state="New York"/>
+    <sale_record department="Outdoors" first_name="Holli" id="628" last_name="Dilnot" sales="5308.59" state="Texas"/>
+    <sale_record department="Health" first_name="Linnet" id="629" last_name="Burnhams" sales="5694.08" state="Pennsylvania"/>
+    <sale_record department="Toys" first_name="Marilyn" id="630" last_name="Winch" sales="4847.82" state="District of Columbia"/>
+    <sale_record department="Baby" first_name="Clair" id="631" last_name="Moakson" sales="1721.18" state="Connecticut"/>
+    <sale_record department="Tools" first_name="Donall" id="632" last_name="Sawden" sales="6409.92" state="Georgia"/>
+    <sale_record department="Garden" first_name="Archaimbaud" id="633" last_name="Shepcutt" sales="3161.14" state="Ohio"/>
+    <sale_record department="Health" first_name="Dolli" id="634" last_name="McAw" sales="1154.5" state="Pennsylvania"/>
+    <sale_record department="Jewelry" first_name="Jourdan" id="635" last_name="McAvinchey" sales="5781.55" state="Virginia"/>
+    <sale_record department="Sports" first_name="Paulita" id="636" last_name="Iacobini" sales="4477.33" state="New Jersey"/>
+    <sale_record department="Jewelry" first_name="Georgeanna" id="637" last_name="Hammelberg" sales="5008.65" state="Texas"/>
+    <sale_record department="Jewelry" first_name="Gino" id="638" last_name="Dahler" sales="8826.47" state="Kentucky"/>
+    <sale_record department="Movies" first_name="Kalli" id="639" last_name="Dwerryhouse" sales="1416.72" state="South Dakota"/>
+    <sale_record department="Computers" first_name="Aidan" id="640" last_name="Gunderson" sales="7758.72" state="California"/>
+    <sale_record department="Tools" first_name="Vivi" id="641" last_name="Halladay" sales="7462.21" state="Oklahoma"/>
+    <sale_record department="Automotive" first_name="Daphne" id="642" last_name="de Werk" sales="5368.91" state="Texas"/>
+    <sale_record department="Tools" first_name="Broddie" id="643" last_name="Coull" sales="5509.53" state="North Carolina"/>
+    <sale_record department="Health" first_name="Kelby" id="644" last_name="Saleway" sales="2496.84" state="Missouri"/>
+    <sale_record department="Sports" first_name="Freddy" id="645" last_name="Lymbourne" sales="8321.69" state="California"/>
+    <sale_record department="Garden" first_name="Myrtice" id="646" last_name="Autry" sales="5459.31" state="California"/>
+    <sale_record department="Jewelry" first_name="Huntlee" id="647" last_name="Joslyn" sales="3668.18" state="Tennessee"/>
+    <sale_record department="Tools" first_name="Hesther" id="648" last_name="Rutter" sales="6827.91" state="Texas"/>
+    <sale_record department="Garden" first_name="Dave" id="649" last_name="Polk" sales="9397.72" state="Georgia"/>
+    <sale_record department="Computers" first_name="Janek" id="650" last_name="O'Deoran" sales="3816.09" state="Texas"/>
+    <sale_record department="Electronics" first_name="Flint" id="651" last_name="Wilcocks" sales="8768.55" state="Texas"/>
+    <sale_record department="Shoes" first_name="Aube" id="652" last_name="Saylor" sales="9214.59" state="Colorado"/>
+    <sale_record department="Tools" first_name="Ole" id="653" last_name="O' Byrne" sales="6958.6" state="Wisconsin"/>
+    <sale_record department="Sports" first_name="Berkie" id="654" last_name="Tybalt" sales="4922.84" state="West Virginia"/>
+    <sale_record department="Games" first_name="Gail" id="655" last_name="Aron" sales="7156.44" state="Florida"/>
+    <sale_record department="Jewelry" first_name="Milzie" id="656" last_name="Tuvey" sales="9380.43" state="California"/>
+    <sale_record department="Outdoors" first_name="Nanci" id="657" last_name="Maytom" sales="9770.54" state="Florida"/>
+    <sale_record department="Games" first_name="Michale" id="658" last_name="Lathan" sales="7252.42" state="Arkansas"/>
+    <sale_record department="Books" first_name="Gabe" id="659" last_name="Puleston" sales="5912.59" state="Illinois"/>
+    <sale_record department="Books" first_name="Pall" id="660" last_name="Strickler" sales="7851.44" state="California"/>
+    <sale_record department="Automotive" first_name="Buckie" id="661" last_name="Waszkiewicz" sales="6657.02" state="North Dakota"/>
+    <sale_record department="Toys" first_name="Stacie" id="662" last_name="Gowanlock" sales="9937.67" state="California"/>
+    <sale_record department="Music" first_name="Glenna" id="663" last_name="Brenard" sales="1743.48" state="North Carolina"/>
+    <sale_record department="Clothing" first_name="Willow" id="664" last_name="Tulley" sales="1827.55" state="North Dakota"/>
+    <sale_record department="Games" first_name="Cristine" id="665" last_name="Coulthard" sales="3976.13" state="Oklahoma"/>
+    <sale_record department="Industrial" first_name="Brittany" id="666" last_name="Hryniewicki" sales="6861.25" state="New York"/>
+    <sale_record department="Jewelry" first_name="Cindi" id="667" last_name="Sopper" sales="5122.65" state="Virginia"/>
+    <sale_record department="Toys" first_name="Germayne" id="668" last_name="Brockton" sales="6486.79" state="Oklahoma"/>
+    <sale_record department="Health" first_name="Van" id="669" last_name="Willden" sales="6160.21" state="Pennsylvania"/>
+    <sale_record department="Kids" first_name="Cherish" id="670" last_name="De Dantesie" sales="5784.13" state="District of Columbia"/>
+    <sale_record department="Industrial" first_name="Jordan" id="671" last_name="Itzhaki" sales="9195.94" state="Arizona"/>
+    <sale_record department="Industrial" first_name="Jacquenetta" id="672" last_name="De Filippis" sales="1179.77" state="District of Columbia"/>
+    <sale_record department="Industrial" first_name="Liane" id="673" last_name="MacGillavery" sales="5807.8" state="Alabama"/>
+    <sale_record department="Clothing" first_name="Zena" id="674" last_name="Stiggers" sales="3934.36" state="Tennessee"/>
+    <sale_record department="Industrial" first_name="Arnaldo" id="675" last_name="Blunt" sales="5569.39" state="New Hampshire"/>
+    <sale_record department="Grocery" first_name="Fidelio" id="676" last_name="Welburn" sales="3122.05" state="Colorado"/>
+    <sale_record department="Toys" first_name="Jermaine" id="677" last_name="Eltune" sales="8277.02" state="California"/>
+    <sale_record department="Clothing" first_name="Haroun" id="678" last_name="Summerell" sales="9749.9" state="Kentucky"/>
+    <sale_record department="Garden" first_name="Hort" id="679" last_name="Sweetenham" sales="1406.41" state="Texas"/>
+    <sale_record department="Home" first_name="Sid" id="680" last_name="Mechi" sales="2075.81" state="California"/>
+    <sale_record department="Games" first_name="Christal" id="681" last_name="Tayloe" sales="1193.58" state="Georgia"/>
+    <sale_record department="Baby" first_name="Selina" id="682" last_name="Keningham" sales="3916.72" state="Kansas"/>
+    <sale_record department="Games" first_name="Barbey" id="683" last_name="Manion" sales="1517.18" state="Florida"/>
+    <sale_record department="Baby" first_name="Sigrid" id="684" last_name="Mulrean" sales="3841.84" state="Ohio"/>
+    <sale_record department="Kids" first_name="Dreddy" id="685" last_name="Eydel" sales="8304.61" state="Virginia"/>
+    <sale_record department="Beauty" first_name="Bibbie" id="686" last_name="Pevreal" sales="7634.33" state="District of Columbia"/>
+    <sale_record department="Kids" first_name="Lyell" id="687" last_name="Bitchener" sales="4269.84" state="Washington"/>
+    <sale_record department="Books" first_name="Westbrooke" id="688" last_name="Domenichini" sales="7467.52" state="Georgia"/>
+    <sale_record department="Health" first_name="Pincas" id="689" last_name="Devennie" sales="8136.23" state="Florida"/>
+    <sale_record department="Garden" first_name="Leonanie" id="690" last_name="Stedmond" sales="3505.55" state="California"/>
+    <sale_record department="Tools" first_name="Gerrilee" id="691" last_name="Sarre" sales="9474.25" state="North Carolina"/>
+    <sale_record department="Sports" first_name="Elsi" id="692" last_name="Gayforth" sales="3435.29" state="Texas"/>
+    <sale_record department="Jewelry" first_name="Sharl" id="693" last_name="Blacksland" sales="5989.47" state="Arizona"/>
+    <sale_record department="Garden" first_name="Beverley" id="694" last_name="Pymar" sales="3698.23" state="Florida"/>
+    <sale_record department="Games" first_name="Amalle" id="695" last_name="Sackes" sales="1836.87" state="Texas"/>
+    <sale_record department="Automotive" first_name="Rosetta" id="696" last_name="Brinklow" sales="8468.76" state="Arizona"/>
+    <sale_record department="Beauty" first_name="Val" id="697" last_name="Inchboard" sales="5845.86" state="District of Columbia"/>
+    <sale_record department="Electronics" first_name="Cecilio" id="698" last_name="Kynaston" sales="1553.49" state="Georgia"/>
+    <sale_record department="Industrial" first_name="Yasmin" id="699" last_name="Kield" sales="9266.8" state="Michigan"/>
+    <sale_record department="Garden" first_name="Monty" id="700" last_name="Brigdale" sales="5301.25" state="Illinois"/>
+    <sale_record department="Computers" first_name="Shea" id="701" last_name="Burnyeat" sales="1519.66" state="Connecticut"/>
+    <sale_record department="Tools" first_name="Maxi" id="702" last_name="Rudledge" sales="9486.23" state="North Carolina"/>
+    <sale_record department="Sports" first_name="Libbey" id="703" last_name="Wainman" sales="4120.65" state="Florida"/>
+    <sale_record department="Clothing" first_name="Hannis" id="704" last_name="Houndsom" sales="2149.86" state="California"/>
+    <sale_record department="Jewelry" first_name="Elbertina" id="705" last_name="Basnall" sales="9169.29" state="West Virginia"/>
+    <sale_record department="Shoes" first_name="Morie" id="706" last_name="Wase" sales="5892.25" state="Massachusetts"/>
+    <sale_record department="Clothing" first_name="Bran" id="707" last_name="Tythacott" sales="3268.76" state="Ohio"/>
+    <sale_record department="Games" first_name="Cairistiona" id="708" last_name="Fenck" sales="6843.72" state="Texas"/>
+    <sale_record department="Industrial" first_name="Ammamaria" id="709" last_name="Cottesford" sales="9959.56" state="California"/>
+    <sale_record department="Computers" first_name="Letti" id="710" last_name="Gorsse" sales="1955.7" state="Florida"/>
+    <sale_record department="Home" first_name="Shem" id="711" last_name="Austins" sales="5522.0" state="Missouri"/>
+    <sale_record department="Shoes" first_name="Kesley" id="712" last_name="Woolrich" sales="9426.21" state="Missouri"/>
+    <sale_record department="Tools" first_name="Shelia" id="713" last_name="Cluitt" sales="9711.15" state="Virginia"/>
+    <sale_record department="Electronics" first_name="Hollie" id="714" last_name="Dray" sales="3714.67" state="Texas"/>
+    <sale_record department="Music" first_name="Cristiano" id="715" last_name="Jouning" sales="1824.24" state="District of Columbia"/>
+    <sale_record department="Music" first_name="Melesa" id="716" last_name="Thornewell" sales="5992.5" state="Virginia"/>
+    <sale_record department="Kids" first_name="Jewell" id="717" last_name="Barkworth" sales="2829.95" state="Montana"/>
+    <sale_record department="Games" first_name="Brigit" id="718" last_name="Fenich" sales="7254.64" state="Massachusetts"/>
+    <sale_record department="Beauty" first_name="Charlton" id="719" last_name="Shapiro" sales="9361.71" state="California"/>
+    <sale_record department="Games" first_name="Ronny" id="720" last_name="Angell" sales="6604.55" state="New York"/>
+    <sale_record department="Outdoors" first_name="Tiffanie" id="721" last_name="Grinaway" sales="2030.3" state="Texas"/>
+    <sale_record department="Beauty" first_name="Stesha" id="722" last_name="Riby" sales="9342.92" state="Indiana"/>
+    <sale_record department="Toys" first_name="Alexi" id="723" last_name="Neeson" sales="8530.7" state="Texas"/>
+    <sale_record department="Kids" first_name="Rhody" id="724" last_name="Shapcote" sales="8536.24" state="Georgia"/>
+    <sale_record department="Clothing" first_name="Cyndy" id="725" last_name="Hardage" sales="5864.47" state="New York"/>
+    <sale_record department="Automotive" first_name="Chuck" id="726" last_name="Mallia" sales="2067.12" state="Texas"/>
+    <sale_record department="Beauty" first_name="Mabelle" id="727" last_name="Gommowe" sales="9197.05" state="Florida"/>
+    <sale_record department="Toys" first_name="Nils" id="728" last_name="Mosconi" sales="4627.19" state="West Virginia"/>
+    <sale_record department="Shoes" first_name="Sonni" id="729" last_name="Quinney" sales="7597.66" state="Ohio"/>
+    <sale_record department="Automotive" first_name="Radcliffe" id="730" last_name="Staneland" sales="8542.66" state="Colorado"/>
+    <sale_record department="Movies" first_name="Gregg" id="731" last_name="Kingescot" sales="7156.39" state="Kentucky"/>
+    <sale_record department="Outdoors" first_name="Jilli" id="732" last_name="Shotton" sales="4534.68" state="Ohio"/>
+    <sale_record department="Baby" first_name="Christabella" id="733" last_name="Glassford" sales="5905.68" state="New York"/>
+    <sale_record department="Beauty" first_name="Garv" id="734" last_name="McCreery" sales="1499.14" state="District of Columbia"/>
+    <sale_record department="Beauty" first_name="Edward" id="735" last_name="Mor" sales="5386.25" state="North Carolina"/>
+    <sale_record department="Clothing" first_name="Morgan" id="736" last_name="Lebreton" sales="1179.07" state="Georgia"/>
+    <sale_record department="Tools" first_name="Salli" id="737" last_name="Lequeux" sales="9897.06" state="Ohio"/>
+    <sale_record department="Baby" first_name="Richardo" id="738" last_name="McLay" sales="1039.26" state="Florida"/>
+    <sale_record department="Clothing" first_name="Floria" id="739" last_name="Cerith" sales="1647.6" state="California"/>
+    <sale_record department="Clothing" first_name="Agathe" id="740" last_name="Culbert" sales="8996.6" state="Kansas"/>
+    <sale_record department="Automotive" first_name="Florina" id="741" last_name="Robken" sales="2380.86" state="California"/>
+    <sale_record department="Grocery" first_name="Bail" id="742" last_name="Twinning" sales="7469.06" state="Minnesota"/>
+    <sale_record department="Movies" first_name="Jessamine" id="743" last_name="Cockayme" sales="6083.21" state="California"/>
+    <sale_record department="Outdoors" first_name="Ashlee" id="744" last_name="Meegan" sales="7983.38" state="Oregon"/>
+    <sale_record department="Automotive" first_name="Brunhilde" id="745" last_name="Sermin" sales="8478.23" state="Indiana"/>
+    <sale_record department="Books" first_name="Alair" id="746" last_name="Tull" sales="4735.56" state="Kentucky"/>
+    <sale_record department="Garden" first_name="Frederica" id="747" last_name="Hugli" sales="3411.8" state="North Carolina"/>
+    <sale_record department="Grocery" first_name="Tuck" id="748" last_name="Tudbald" sales="3515.49" state="Illinois"/>
+    <sale_record department="Health" first_name="Leonerd" id="749" last_name="Conkie" sales="6859.6" state="Texas"/>
+    <sale_record department="Sports" first_name="Vivian" id="750" last_name="Frodsam" sales="7691.33" state="California"/>
+    <sale_record department="Baby" first_name="Elka" id="751" last_name="Waghorn" sales="6158.43" state="New Mexico"/>
+    <sale_record department="Toys" first_name="Veradis" id="752" last_name="Favel" sales="7783.64" state="Tennessee"/>
+    <sale_record department="Tools" first_name="Benny" id="753" last_name="O'Keefe" sales="4535.65" state="Wisconsin"/>
+    <sale_record department="Health" first_name="Maud" id="754" last_name="McDonagh" sales="8198.3" state="Georgia"/>
+    <sale_record department="Baby" first_name="Matty" id="755" last_name="Wallen" sales="6238.04" state="Pennsylvania"/>
+    <sale_record department="Beauty" first_name="Anabella" id="756" last_name="Pochet" sales="1656.27" state="Louisiana"/>
+    <sale_record department="Home" first_name="Kitti" id="757" last_name="Tonepohl" sales="6355.71" state="Florida"/>
+    <sale_record department="Beauty" first_name="Row" id="758" last_name="Iohananof" sales="1130.0" state="California"/>
+    <sale_record department="Tools" first_name="Esta" id="759" last_name="Hebbes" sales="7033.36" state="Oregon"/>
+    <sale_record department="Games" first_name="Dougie" id="760" last_name="Chellam" sales="7064.36" state="Florida"/>
+    <sale_record department="Movies" first_name="Pietra" id="761" last_name="Meys" sales="2837.14" state="New Jersey"/>
+    <sale_record department="Jewelry" first_name="Annamarie" id="762" last_name="Askell" sales="8510.07" state="Georgia"/>
+    <sale_record department="Clothing" first_name="Fransisco" id="763" last_name="Riep" sales="7762.07" state="West Virginia"/>
+    <sale_record department="Jewelry" first_name="Itch" id="764" last_name="Sergison" sales="4026.62" state="Louisiana"/>
+    <sale_record department="Toys" first_name="Horton" id="765" last_name="Baptista" sales="6062.43" state="Arizona"/>
+    <sale_record department="Shoes" first_name="Stacey" id="766" last_name="Ferier" sales="1850.0" state="Texas"/>
+    <sale_record department="Shoes" first_name="Heriberto" id="767" last_name="Ashall" sales="8702.08" state="South Dakota"/>
+    <sale_record department="Toys" first_name="Sherwin" id="768" last_name="Klees" sales="7374.54" state="Tennessee"/>
+    <sale_record department="Health" first_name="Domini" id="769" last_name="Kolodziej" sales="3500.22" state="Florida"/>
+    <sale_record department="Garden" first_name="Arabelle" id="770" last_name="Urlin" sales="1014.14" state="New York"/>
+    <sale_record department="Baby" first_name="Benedikt" id="771" last_name="Tonks" sales="9015.42" state="Utah"/>
+    <sale_record department="Home" first_name="Elfreda" id="772" last_name="Fedorski" sales="7881.1" state="Kentucky"/>
+    <sale_record department="Electronics" first_name="Julee" id="773" last_name="Akitt" sales="9619.76" state="Pennsylvania"/>
+    <sale_record department="Clothing" first_name="Teodoor" id="774" last_name="Northall" sales="8133.38" state="California"/>
+    <sale_record department="Books" first_name="Kristo" id="775" last_name="Mulloch" sales="3313.82" state="Florida"/>
+    <sale_record department="Grocery" first_name="Minny" id="776" last_name="McLinden" sales="7688.58" state="Minnesota"/>
+    <sale_record department="Outdoors" first_name="Benson" id="777" last_name="Lynskey" sales="7272.85" state="Ohio"/>
+    <sale_record department="Books" first_name="Isa" id="778" last_name="Harcourt" sales="4027.76" state="Florida"/>
+    <sale_record department="Shoes" first_name="Philly" id="779" last_name="Maccrea" sales="5940.51" state="Florida"/>
+    <sale_record department="Games" first_name="Natalya" id="780" last_name="Beecker" sales="4443.99" state="Texas"/>
+    <sale_record department="Automotive" first_name="Keven" id="781" last_name="Tice" sales="2248.56" state="Texas"/>
+    <sale_record department="Computers" first_name="Maxim" id="782" last_name="Theaker" sales="1201.39" state="Nevada"/>
+    <sale_record department="Shoes" first_name="Katharine" id="783" last_name="Rameau" sales="8224.29" state="Georgia"/>
+    <sale_record department="Industrial" first_name="Garfield" id="784" last_name="Holley" sales="6220.76" state="Arizona"/>
+    <sale_record department="Tools" first_name="Nelson" id="785" last_name="Adamkiewicz" sales="1151.54" state="Connecticut"/>
+    <sale_record department="Jewelry" first_name="Stephanie" id="786" last_name="O'Fergus" sales="7092.56" state="Florida"/>
+    <sale_record department="Industrial" first_name="Latrena" id="787" last_name="Bettis" sales="1746.16" state="Kansas"/>
+    <sale_record department="Clothing" first_name="Marjorie" id="788" last_name="Stanistrete" sales="5686.99" state="Texas"/>
+    <sale_record department="Kids" first_name="Hedwig" id="789" last_name="Dable" sales="2828.46" state="Florida"/>
+    <sale_record department="Beauty" first_name="Klarika" id="790" last_name="Mockler" sales="3186.0" state="Washington"/>
+    <sale_record department="Outdoors" first_name="Anetta" id="791" last_name="Stiebler" sales="5568.13" state="Washington"/>
+    <sale_record department="Garden" first_name="Augustus" id="792" last_name="Cotterill" sales="9773.35" state="Louisiana"/>
+    <sale_record department="Computers" first_name="Sandy" id="793" last_name="Lionel" sales="7758.37" state="Washington"/>
+    <sale_record department="Health" first_name="Pall" id="794" last_name="Kedie" sales="2890.48" state="Nevada"/>
+    <sale_record department="Computers" first_name="Daphene" id="795" last_name="Penke" sales="8600.13" state="Texas"/>
+    <sale_record department="Music" first_name="Ailene" id="796" last_name="Dudbridge" sales="1165.13" state="California"/>
+    <sale_record department="Outdoors" first_name="Maegan" id="797" last_name="Storch" sales="2748.68" state="California"/>
+    <sale_record department="Baby" first_name="Auguste" id="798" last_name="Salter" sales="1012.76" state="District of Columbia"/>
+    <sale_record department="Music" first_name="Granville" id="799" last_name="Conlon" sales="4338.78" state="Michigan"/>
+    <sale_record department="Computers" first_name="Brig" id="800" last_name="Tasseler" sales="3852.74" state="Michigan"/>
+    <sale_record department="Beauty" first_name="Courtenay" id="801" last_name="Cormack" sales="7010.23" state="Texas"/>
+    <sale_record department="Home" first_name="Chrisse" id="802" last_name="Goschalk" sales="8197.39" state="Massachusetts"/>
+    <sale_record department="Sports" first_name="Annis" id="803" last_name="Rogge" sales="3199.0" state="Illinois"/>
+    <sale_record department="Garden" first_name="Laurence" id="804" last_name="Sneyd" sales="3600.94" state="Ohio"/>
+    <sale_record department="Industrial" first_name="Tyler" id="805" last_name="Roper" sales="6881.53" state="Nevada"/>
+    <sale_record department="Games" first_name="Sean" id="806" last_name="Gumb" sales="4298.68" state="Georgia"/>
+    <sale_record department="Kids" first_name="Kerr" id="807" last_name="Haselgrove" sales="3402.51" state="Arizona"/>
+    <sale_record department="Computers" first_name="Erhart" id="808" last_name="Van Oord" sales="7476.19" state="Alaska"/>
+    <sale_record department="Sports" first_name="Jerrilee" id="809" last_name="Blakeden" sales="3804.62" state="Alabama"/>
+    <sale_record department="Sports" first_name="Tommi" id="810" last_name="Martonfi" sales="9200.81" state="New York"/>
+    <sale_record department="Kids" first_name="Merrie" id="811" last_name="Meas" sales="8305.99" state="Delaware"/>
+    <sale_record department="Sports" first_name="Sofia" id="812" last_name="Thorley" sales="6417.4" state="California"/>
+    <sale_record department="Outdoors" first_name="Robbie" id="813" last_name="Latey" sales="6685.3" state="Oklahoma"/>
+    <sale_record department="Jewelry" first_name="Roby" id="814" last_name="Todarini" sales="8704.26" state="Texas"/>
+    <sale_record department="Computers" first_name="Greggory" id="815" last_name="Spurriar" sales="1765.98" state="Texas"/>
+    <sale_record department="Movies" first_name="Jehu" id="816" last_name="Hudspith" sales="6308.28" state="California"/>
+    <sale_record department="Computers" first_name="Joshia" id="817" last_name="Reddin" sales="7792.07" state="Texas"/>
+    <sale_record department="Garden" first_name="Ingemar" id="818" last_name="Porcher" sales="9822.49" state="West Virginia"/>
+    <sale_record department="Computers" first_name="Lothario" id="819" last_name="Perrone" sales="4516.81" state="Florida"/>
+    <sale_record department="Music" first_name="Martguerita" id="820" last_name="Emblow" sales="2476.31" state="Texas"/>
+    <sale_record department="Electronics" first_name="Livvyy" id="821" last_name="Pascho" sales="6955.94" state="Missouri"/>
+    <sale_record department="Tools" first_name="Nolan" id="822" last_name="Esland" sales="1517.14" state="Florida"/>
+    <sale_record department="Clothing" first_name="Melonie" id="823" last_name="De L'Isle" sales="8556.54" state="Texas"/>
+    <sale_record department="Automotive" first_name="Ally" id="824" last_name="Farge" sales="4365.79" state="Texas"/>
+    <sale_record department="Toys" first_name="Zorina" id="825" last_name="Whatsize" sales="4269.52" state="Illinois"/>
+    <sale_record department="Jewelry" first_name="Madison" id="826" last_name="Goublier" sales="4800.1" state="Florida"/>
+    <sale_record department="Tools" first_name="Thorn" id="827" last_name="Lerwill" sales="8199.48" state="New Mexico"/>
+    <sale_record department="Sports" first_name="Ulises" id="828" last_name="Dando" sales="5558.16" state="Virginia"/>
+    <sale_record department="Grocery" first_name="Lanni" id="829" last_name="Landreth" sales="4292.11" state="Oklahoma"/>
+    <sale_record department="Tools" first_name="Suzanna" id="830" last_name="Dyball" sales="2563.04" state="Arizona"/>
+    <sale_record department="Music" first_name="Carlyn" id="831" last_name="Stile" sales="7127.92" state="California"/>
+    <sale_record department="Garden" first_name="Tallie" id="832" last_name="Saveall" sales="2859.11" state="Florida"/>
+    <sale_record department="Shoes" first_name="Karole" id="833" last_name="Fosdike" sales="5821.85" state="Ohio"/>
+    <sale_record department="Tools" first_name="Dannie" id="834" last_name="Tschirasche" sales="1896.37" state="Texas"/>
+    <sale_record department="Movies" first_name="Mamie" id="835" last_name="Janic" sales="1048.37" state="New York"/>
+    <sale_record department="Health" first_name="Henka" id="836" last_name="Danaher" sales="9993.55" state="Florida"/>
+    <sale_record department="Kids" first_name="Iormina" id="837" last_name="Deshorts" sales="9536.76" state="Florida"/>
+    <sale_record department="Shoes" first_name="Jaynell" id="838" last_name="Parsell" sales="2573.17" state="New York"/>
+    <sale_record department="Automotive" first_name="Laurel" id="839" last_name="Grummitt" sales="8937.02" state="Illinois"/>
+    <sale_record department="Clothing" first_name="Dick" id="840" last_name="Blumer" sales="8129.02" state="Texas"/>
+    <sale_record department="Toys" first_name="Jordain" id="841" last_name="Cargo" sales="9954.42" state="Florida"/>
+    <sale_record department="Computers" first_name="Fania" id="842" last_name="Nicklin" sales="3292.42" state="Idaho"/>
+    <sale_record department="Books" first_name="Mano" id="843" last_name="Eades" sales="9457.08" state="Georgia"/>
+    <sale_record department="Automotive" first_name="Selle" id="844" last_name="Isaksson" sales="4537.51" state="Washington"/>
+    <sale_record department="Baby" first_name="Arlinda" id="845" last_name="Begent" sales="5241.91" state="Illinois"/>
+    <sale_record department="Music" first_name="Coralyn" id="846" last_name="Polsin" sales="9374.52" state="California"/>
+    <sale_record department="Outdoors" first_name="Luther" id="847" last_name="Scarsbrick" sales="4188.52" state="Ohio"/>
+    <sale_record department="Outdoors" first_name="Krystyna" id="848" last_name="Britcher" sales="6041.4" state="Texas"/>
+    <sale_record department="Baby" first_name="Caesar" id="849" last_name="Crich" sales="8133.29" state="South Carolina"/>
+    <sale_record department="Home" first_name="Faina" id="850" last_name="Prudence" sales="4201.3" state="Ohio"/>
+    <sale_record department="Tools" first_name="Gun" id="851" last_name="Kainz" sales="1757.32" state="Virginia"/>
+    <sale_record department="Garden" first_name="Hebert" id="852" last_name="Krikorian" sales="5404.32" state="Illinois"/>
+    <sale_record department="Industrial" first_name="Alfred" id="853" last_name="Darthe" sales="6164.85" state="District of Columbia"/>
+    <sale_record department="Sports" first_name="Trever" id="854" last_name="Whitcombe" sales="5075.07" state="Louisiana"/>
+    <sale_record department="Beauty" first_name="Gilles" id="855" last_name="Notton" sales="6178.66" state="Michigan"/>
+    <sale_record department="Grocery" first_name="Veronike" id="856" last_name="Sagerson" sales="3269.64" state="Illinois"/>
+    <sale_record department="Baby" first_name="Gratiana" id="857" last_name="Pitt" sales="4870.24" state="Arkansas"/>
+    <sale_record department="Grocery" first_name="Alfy" id="858" last_name="Viles" sales="4283.83" state="New York"/>
+    <sale_record department="Jewelry" first_name="Krissy" id="859" last_name="Bullion" sales="8475.43" state="Minnesota"/>
+    <sale_record department="Shoes" first_name="Romola" id="860" last_name="Muttock" sales="1597.65" state="Missouri"/>
+    <sale_record department="Books" first_name="Nomi" id="861" last_name="Forrest" sales="8268.53" state="California"/>
+    <sale_record department="Outdoors" first_name="Seline" id="862" last_name="Cherry" sales="2144.36" state="Florida"/>
+    <sale_record department="Sports" first_name="Luke" id="863" last_name="Clem" sales="7212.37" state="Nevada"/>
+    <sale_record department="Movies" first_name="Donnie" id="864" last_name="Vian" sales="6462.9" state="Oregon"/>
+    <sale_record department="Computers" first_name="Phaidra" id="865" last_name="Murrill" sales="8488.67" state="Kentucky"/>
+    <sale_record department="Kids" first_name="Aleece" id="866" last_name="Kyngdon" sales="2916.46" state="California"/>
+    <sale_record department="Health" first_name="Fenelia" id="867" last_name="Pfertner" sales="1543.71" state="Kentucky"/>
+    <sale_record department="Shoes" first_name="Nissie" id="868" last_name="Patten" sales="6378.39" state="Florida"/>
+    <sale_record department="Toys" first_name="Sterling" id="869" last_name="Southan" sales="7590.61" state="Massachusetts"/>
+    <sale_record department="Beauty" first_name="Liesa" id="870" last_name="Battaille" sales="9219.81" state="Alabama"/>
+    <sale_record department="Industrial" first_name="Felicity" id="871" last_name="Biggadyke" sales="3274.11" state="Washington"/>
+    <sale_record department="Kids" first_name="Marlie" id="872" last_name="Dibbin" sales="4990.29" state="Florida"/>
+    <sale_record department="Movies" first_name="Any" id="873" last_name="Petrusch" sales="5325.9" state="Ohio"/>
+    <sale_record department="Health" first_name="Berri" id="874" last_name="Cathie" sales="4827.84" state="New York"/>
+    <sale_record department="Movies" first_name="Heath" id="875" last_name="Bruinemann" sales="8935.31" state="Texas"/>
+    <sale_record department="Tools" first_name="Eustacia" id="876" last_name="Sutherley" sales="4060.26" state="North Carolina"/>
+    <sale_record department="Music" first_name="Reamonn" id="877" last_name="Dorran" sales="8072.61" state="Michigan"/>
+    <sale_record department="Automotive" first_name="Lissy" id="878" last_name="Searle" sales="5155.15" state="Texas"/>
+    <sale_record department="Industrial" first_name="Bo" id="879" last_name="Darton" sales="1960.88" state="California"/>
+    <sale_record department="Garden" first_name="Idette" id="880" last_name="Alwood" sales="6728.53" state="Connecticut"/>
+    <sale_record department="Movies" first_name="Ibbie" id="881" last_name="Jansey" sales="9934.33" state="Tennessee"/>
+    <sale_record department="Grocery" first_name="Zach" id="882" last_name="Greenan" sales="1211.13" state="California"/>
+    <sale_record department="Books" first_name="Elvis" id="883" last_name="Brittles" sales="4053.92" state="California"/>
+    <sale_record department="Jewelry" first_name="Bellanca" id="884" last_name="Ewestace" sales="6465.57" state="Connecticut"/>
+    <sale_record department="Industrial" first_name="Angelika" id="885" last_name="Farrent" sales="9626.53" state="New York"/>
+    <sale_record department="Books" first_name="Dacy" id="886" last_name="Lumpkin" sales="3485.51" state="Ohio"/>
+    <sale_record department="Kids" first_name="Oran" id="887" last_name="Labat" sales="9228.86" state="Maryland"/>
+    <sale_record department="Health" first_name="Codi" id="888" last_name="Britt" sales="4905.11" state="Pennsylvania"/>
+    <sale_record department="Music" first_name="Bennett" id="889" last_name="Emerton" sales="5688.19" state="Michigan"/>
+    <sale_record department="Baby" first_name="Ignaz" id="890" last_name="Lownsbrough" sales="7150.25" state="Michigan"/>
+    <sale_record department="Outdoors" first_name="Noll" id="891" last_name="Skupinski" sales="1082.39" state="South Carolina"/>
+    <sale_record department="Garden" first_name="Marianna" id="892" last_name="Barhims" sales="9594.32" state="Florida"/>
+    <sale_record department="Movies" first_name="Garwood" id="893" last_name="Carrol" sales="4207.72" state="Colorado"/>
+    <sale_record department="Outdoors" first_name="Doro" id="894" last_name="Clemmow" sales="5407.44" state="Virginia"/>
+    <sale_record department="Music" first_name="Land" id="895" last_name="Malins" sales="6190.02" state="Illinois"/>
+    <sale_record department="Beauty" first_name="Bunny" id="896" last_name="Henric" sales="8576.01" state="West Virginia"/>
+    <sale_record department="Sports" first_name="Chev" id="897" last_name="Etheridge" sales="1382.34" state="Florida"/>
+    <sale_record department="Books" first_name="Missy" id="898" last_name="Chatell" sales="9600.45" state="New York"/>
+    <sale_record department="Movies" first_name="Veradis" id="899" last_name="Ansett" sales="3717.93" state="Georgia"/>
+    <sale_record department="Games" first_name="Lydia" id="900" last_name="Elgar" sales="2107.7" state="South Carolina"/>
+    <sale_record department="Home" first_name="Cletus" id="901" last_name="Izachik" sales="3510.79" state="Nevada"/>
+    <sale_record department="Outdoors" first_name="Rowe" id="902" last_name="Barfitt" sales="9767.0" state="Texas"/>
+    <sale_record department="Kids" first_name="Phedra" id="903" last_name="Warren" sales="4345.16" state="New York"/>
+    <sale_record department="Beauty" first_name="Codi" id="904" last_name="Stoakley" sales="8944.68" state="New York"/>
+    <sale_record department="Beauty" first_name="Marlow" id="905" last_name="Brager" sales="7167.06" state="Missouri"/>
+    <sale_record department="Toys" first_name="Skippy" id="906" last_name="Clague" sales="7365.67" state="Ohio"/>
+    <sale_record department="Baby" first_name="Bartolomeo" id="907" last_name="Kiernan" sales="5225.07" state="Texas"/>
+    <sale_record department="Grocery" first_name="Wini" id="908" last_name="Kermon" sales="2274.7" state="Kansas"/>
+    <sale_record department="Grocery" first_name="Carmon" id="909" last_name="Piers" sales="3938.58" state="Florida"/>
+    <sale_record department="Games" first_name="Stevana" id="910" last_name="Dighton" sales="9750.43" state="New York"/>
+    <sale_record department="Industrial" first_name="Merissa" id="911" last_name="Langtry" sales="1691.78" state="South Carolina"/>
+    <sale_record department="Kids" first_name="Baron" id="912" last_name="Concannon" sales="4712.08" state="Indiana"/>
+    <sale_record department="Grocery" first_name="Ninnette" id="913" last_name="O'Hogertie" sales="7144.5" state="California"/>
+    <sale_record department="Garden" first_name="Madison" id="914" last_name="Gunby" sales="5346.95" state="Washington"/>
+    <sale_record department="Automotive" first_name="Correy" id="915" last_name="O'Conor" sales="9526.26" state="Nevada"/>
+    <sale_record department="Baby" first_name="Sharyl" id="916" last_name="Yarrell" sales="8510.01" state="Washington"/>
+    <sale_record department="Jewelry" first_name="Jacquelin" id="917" last_name="Oswal" sales="8933.55" state="California"/>
+    <sale_record department="Garden" first_name="Nehemiah" id="918" last_name="Hearns" sales="5567.69" state="Texas"/>
+    <sale_record department="Automotive" first_name="Jeno" id="919" last_name="McGrann" sales="8078.68" state="Arizona"/>
+    <sale_record department="Jewelry" first_name="Crystal" id="920" last_name="Shepeard" sales="4655.15" state="Colorado"/>
+    <sale_record department="Toys" first_name="Gabriell" id="921" last_name="Rosengarten" sales="9063.65" state="Illinois"/>
+    <sale_record department="Movies" first_name="Mirabella" id="922" last_name="Chaplyn" sales="8548.36" state="New York"/>
+    <sale_record department="Sports" first_name="Maury" id="923" last_name="Croasdale" sales="8454.04" state="Ohio"/>
+    <sale_record department="Kids" first_name="Frannie" id="924" last_name="Menlow" sales="2664.87" state="Illinois"/>
+    <sale_record department="Tools" first_name="Eldredge" id="925" last_name="Lackeye" sales="8592.78" state="Alabama"/>
+    <sale_record department="Music" first_name="Iain" id="926" last_name="Picardo" sales="8550.65" state="New York"/>
+    <sale_record department="Shoes" first_name="Scott" id="927" last_name="Collibear" sales="3198.06" state="Florida"/>
+    <sale_record department="Tools" first_name="Brucie" id="928" last_name="Masham" sales="3607.24" state="Texas"/>
+    <sale_record department="Kids" first_name="Corri" id="929" last_name="Roddick" sales="5430.36" state="Oregon"/>
+    <sale_record department="Garden" first_name="Shane" id="930" last_name="Walker" sales="5475.58" state="Wisconsin"/>
+    <sale_record department="Garden" first_name="Laurel" id="931" last_name="Fearnyhough" sales="4063.47" state="California"/>
+    <sale_record department="Movies" first_name="Eryn" id="932" last_name="Garfath" sales="3620.87" state="Illinois"/>
+    <sale_record department="Tools" first_name="Nerty" id="933" last_name="Martinetto" sales="9656.05" state="California"/>
+    <sale_record department="Shoes" first_name="Eda" id="934" last_name="Alenikov" sales="3857.98" state="Oklahoma"/>
+    <sale_record department="Clothing" first_name="Netty" id="935" last_name="Ingilson" sales="8433.57" state="California"/>
+    <sale_record department="Garden" first_name="Teresa" id="936" last_name="McTiernan" sales="2635.79" state="New Jersey"/>
+    <sale_record department="Games" first_name="Lockwood" id="937" last_name="Leggon" sales="5451.51" state="California"/>
+    <sale_record department="Beauty" first_name="Lorita" id="938" last_name="Gerrett" sales="7640.34" state="Indiana"/>
+    <sale_record department="Kids" first_name="Belvia" id="939" last_name="de Guise" sales="4699.02" state="Tennessee"/>
+    <sale_record department="Toys" first_name="Layne" id="940" last_name="Grenter" sales="2929.8" state="California"/>
+    <sale_record department="Jewelry" first_name="Collin" id="941" last_name="Garling" sales="7927.14" state="South Carolina"/>
+    <sale_record department="Electronics" first_name="Sherline" id="942" last_name="Hupka" sales="6709.12" state="Kansas"/>
+    <sale_record department="Kids" first_name="Stormi" id="943" last_name="Kaliszewski" sales="9105.88" state="Ohio"/>
+    <sale_record department="Music" first_name="Noni" id="944" last_name="Becken" sales="4192.24" state="Texas"/>
+    <sale_record department="Sports" first_name="Marylee" id="945" last_name="Cokely" sales="9591.5" state="District of Columbia"/>
+    <sale_record department="Toys" first_name="Analiese" id="946" last_name="Mansell" sales="9163.02" state="Arizona"/>
+    <sale_record department="Grocery" first_name="Eldin" id="947" last_name="Leedal" sales="8698.0" state="New York"/>
+    <sale_record department="Outdoors" first_name="Kass" id="948" last_name="Tallon" sales="3965.91" state="District of Columbia"/>
+    <sale_record department="Music" first_name="Morse" id="949" last_name="Tatlowe" sales="3670.73" state="District of Columbia"/>
+    <sale_record department="Health" first_name="Dorene" id="950" last_name="Kearns" sales="9659.6" state="California"/>
+    <sale_record department="Computers" first_name="Dara" id="951" last_name="Dorman" sales="7828.89" state="North Carolina"/>
+    <sale_record department="Home" first_name="Oneida" id="952" last_name="Salzen" sales="9799.08" state="Virginia"/>
+    <sale_record department="Sports" first_name="Lanae" id="953" last_name="Franzonetti" sales="8165.72" state="Georgia"/>
+    <sale_record department="Movies" first_name="Matty" id="954" last_name="Kupisz" sales="2220.2" state="California"/>
+    <sale_record department="Baby" first_name="Chaim" id="955" last_name="Meysham" sales="9353.18" state="Nevada"/>
+    <sale_record department="Outdoors" first_name="Mozelle" id="956" last_name="MacMenemy" sales="7090.67" state="District of Columbia"/>
+    <sale_record department="Shoes" first_name="Frank" id="957" last_name="Brolechan" sales="3302.09" state="New York"/>
+    <sale_record department="Health" first_name="Cross" id="958" last_name="Melley" sales="1325.73" state="Oregon"/>
+    <sale_record department="Kids" first_name="Jasmina" id="959" last_name="Nilges" sales="8239.48" state="Ohio"/>
+    <sale_record department="Automotive" first_name="Leoline" id="960" last_name="Wymer" sales="7786.88" state="Florida"/>
+    <sale_record department="Computers" first_name="Nikki" id="961" last_name="Challenor" sales="8318.96" state="Illinois"/>
+    <sale_record department="Home" first_name="Florence" id="962" last_name="Battson" sales="9634.93" state="Illinois"/>
+    <sale_record department="Baby" first_name="Robers" id="963" last_name="Bonsall" sales="7880.07" state="Connecticut"/>
+    <sale_record department="Outdoors" first_name="Kristo" id="964" last_name="McFadden" sales="9638.36" state="Missouri"/>
+    <sale_record department="Garden" first_name="Kellyann" id="965" last_name="Tonna" sales="9835.53" state="Arkansas"/>
+    <sale_record department="Jewelry" first_name="Tate" id="966" last_name="Cockson" sales="5811.06" state="Colorado"/>
+    <sale_record department="Beauty" first_name="Minnie" id="967" last_name="Rusk" sales="1257.77" state="Florida"/>
+    <sale_record department="Movies" first_name="Godfrey" id="968" last_name="Seath" sales="5579.39" state="California"/>
+    <sale_record department="Games" first_name="Gillie" id="969" last_name="Rafferty" sales="1390.12" state="South Carolina"/>
+    <sale_record department="Grocery" first_name="Sinclare" id="970" last_name="Barbary" sales="5196.25" state="Florida"/>
+    <sale_record department="Grocery" first_name="Nikolaus" id="971" last_name="oldey" sales="6732.92" state="Colorado"/>
+    <sale_record department="Jewelry" first_name="Gabi" id="972" last_name="Tolmie" sales="1880.87" state="West Virginia"/>
+    <sale_record department="Movies" first_name="Ransell" id="973" last_name="Huffa" sales="1547.63" state="Alaska"/>
+    <sale_record department="Toys" first_name="Maye" id="974" last_name="Getcliff" sales="3438.47" state="Nevada"/>
+    <sale_record department="Games" first_name="Rickert" id="975" last_name="Voelker" sales="7984.0" state="California"/>
+    <sale_record department="Industrial" first_name="Maribeth" id="976" last_name="McOwen" sales="8338.22" state="Oklahoma"/>
+    <sale_record department="Grocery" first_name="Waylen" id="977" last_name="Lander" sales="5743.47" state="New York"/>
+    <sale_record department="Grocery" first_name="Ingmar" id="978" last_name="Mylchreest" sales="9896.89" state="California"/>
+    <sale_record department="Health" first_name="Estelle" id="979" last_name="Stamps" sales="4176.32" state="Arizona"/>
+    <sale_record department="Clothing" first_name="Selby" id="980" last_name="Wignall" sales="3244.88" state="Indiana"/>
+    <sale_record department="Jewelry" first_name="Felizio" id="981" last_name="Borzoni" sales="2274.14" state="Virginia"/>
+    <sale_record department="Jewelry" first_name="Vincenty" id="982" last_name="Simonds" sales="6909.78" state="Tennessee"/>
+    <sale_record department="Computers" first_name="Burlie" id="983" last_name="Warrack" sales="5874.57" state="Pennsylvania"/>
+    <sale_record department="Movies" first_name="Tildy" id="984" last_name="Childe" sales="4496.0" state="Connecticut"/>
+    <sale_record department="Music" first_name="Artus" id="985" last_name="Tarrant" sales="4777.36" state="Kentucky"/>
+    <sale_record department="Tools" first_name="Gabi" id="986" last_name="But" sales="1434.51" state="Texas"/>
+    <sale_record department="Shoes" first_name="Dewey" id="987" last_name="Papaccio" sales="3776.44" state="California"/>
+    <sale_record department="Clothing" first_name="Ellis" id="988" last_name="Cinelli" sales="7823.85" state="New Jersey"/>
+    <sale_record department="Toys" first_name="Benjy" id="989" last_name="Attenbrow" sales="8164.0" state="Texas"/>
+    <sale_record department="Computers" first_name="Luci" id="990" last_name="Toy" sales="1301.87" state="Virginia"/>
+    <sale_record department="Outdoors" first_name="Carl" id="991" last_name="Brigge" sales="4818.72" state="Texas"/>
+    <sale_record department="Beauty" first_name="Nico" id="992" last_name="Bene" sales="2369.3" state="Connecticut"/>
+    <sale_record department="Kids" first_name="Gates" id="993" last_name="Rutty" sales="1972.52" state="California"/>
+    <sale_record department="Industrial" first_name="Debera" id="994" last_name="Sinson" sales="7022.23" state="Tennessee"/>
+    <sale_record department="Outdoors" first_name="Devondra" id="995" last_name="Groomebridge" sales="3146.34" state="District of Columbia"/>
+    <sale_record department="Health" first_name="Carny" id="996" last_name="Antao" sales="1493.38" state="Kentucky"/>
+    <sale_record department="Tools" first_name="Dag" id="997" last_name="Nairn" sales="8414.85" state="Illinois"/>
+    <sale_record department="Baby" first_name="Moina" id="998" last_name="Linsey" sales="4884.3" state="Georgia"/>
+    <sale_record department="Kids" first_name="Dilly" id="999" last_name="Bruneau" sales="6578.36" state="Florida"/>
+    <sale_record department="Clothing" first_name="Maisey" id="1000" last_name="McFayden" sales="8809.81" state="Louisiana"/>
+</root>
